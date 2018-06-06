@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Info 247: Chord Diagram</title>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <style>
+      html, body {
+        font: 10px sans-serif;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #chart {
+        text-align: center;
+        height: 100%;
+      }
+      .chord path, .arc {
+        fill-opacity: .67;
+        stroke: #000;
+        stroke-width: .25px;
+      }
+      #circle circle {
+        fill: none;
+        pointer-events: all;
+      }
+      #circle:hover path.fade {
+        display: none;
+      }
+      #control {
+        position: fixed;
+        left: 20px;
+        top: 20px;
+        font-size: 200%;
+      }
+      ul {
+        list-style-type: none;
+        padding: 0;
+      }
+      #ch {
+        color: #E6F598;
+      }
+      #cc {
+        color: #D53E4F;
+      }
+      #em {
+        color: #3288BD;
+      }
+      #fd {
+        color: #FC8D59;
+      }
+      #so {
+        color: #FEE08B;
+      }
+      #us {
+        color: #99D594;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="control">
+      <label>Show rides for </label>
+      <label id="month" name="month">08</label>,
+      <label id="year" name="year">2013</label>:
+      <form>
+        <input id="slider" type="range" name="slider" min="0" max="7" value="0" step="1"/>
+      </form>
+      <div>
+        <p>Station Legend</p>
+        <ul>
+          <li id="ch">Chinatown</li>
+          <li id="cc">Civic Center</li>
+          <li id="em">Embarcadero</li>
+          <li id="fd">Financial District</li>
+          <li id="so">SOMA</li>
+          <li id="us">Union Square</li>
+        </ul>
+      </div>
+    </div>
+    <div id="chart"></div>
+    <script type="text/javascript" src="chord.js"></script>
+  </body>
+</html>
