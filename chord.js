@@ -43,7 +43,7 @@ d3.select("#slider").on('change', function(d) {
     rerender(new_data);
 });
 
-d3.csv("rides.csv", function(rides) {
+d3.csv("stations.csv", function(rides) {
   d3.json("rides_ym.json", function(matrix) {
     matrices = matrix,
     years    = Object.keys(matrices).sort(),
