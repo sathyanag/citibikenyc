@@ -1,0 +1,810 @@
+id,stationName,latitude,longitude,neighbourhood,availableDocks,totalDocks,city,color,borough
+72,W 52 St & 11 Ave,40.76727216,-73.99392888,Hell's Kitchen,34,39,NYC,#AD78C0,Manhattan
+79,Franklin St & W Broadway,40.71911552,-74.00666661,Tribeca,6,33,NYC,#E1A0A0,Manhattan
+82,St James Pl & Pearl St,40.71117416,-74.00016545,Two Bridges,5,11,NYC,#E2F5FB,Manhattan
+83,Atlantic Ave & Fort Greene Pl,40.68382604,-73.97632328,Fort Greene,25,62,NYC,#F8F4BC,Brooklyn
+119,Park Ave & St Edwards St,40.69608941,-73.97803415,Fort Greene,11,19,NYC,#F8F4BC,Brooklyn
+120,Lexington Ave & Classon Ave,40.68676793,-73.95928168,Clinton Hill,13,19,NYC,#FFCC66,Brooklyn
+127,Barrow St & Hudson St,40.73172428,-74.00674436,West Village,7,31,NYC,#EDE2F1,Manhattan
+128,MacDougal St & Prince St,40.72710258,-74.00297088,Greenwich Village,2,30,NYC,#EE1D24,Manhattan
+143,Clinton St & Joralemon St,40.69239502,-73.99337909,Cobble Hill Historic District,7,24,NYC,#893D39,Brooklyn
+144,Nassau St & Navy St,40.69839895,-73.98068914,Fort Greene,15,19,NYC,#F8F4BC,Brooklyn
+146,Hudson St & Reade St,40.71625008,-74.0091059,Tribeca,9,39,NYC,#E1A0A0,Manhattan
+150,E 2 St & Avenue C,40.720873600000004,-73.98085795,Alphabet City,16,29,NYC,#FE3A3A,Manhattan
+151,Cleveland Pl & Spring St,40.72210378668603,-73.99724900722505,SoHo,28,33,NYC,#000846,Manhattan
+152,Warren St & Church St,40.71473993,-74.00910627,Tribeca,24,24,NYC,#E1A0A0,Manhattan
+157,Henry St & Atlantic Ave,40.69089272,-73.99612349,Brooklyn Heights,12,23,NYC,#D5D3F4,Brooklyn
+161,LaGuardia Pl & W 3 St,40.72917025,-73.99810231,University Village,7,35,NYC,#E0000B,Manhattan
+164,E 47 St & 2 Ave,40.75323098,-73.97032517,Diamond District,47,47,NYC,#80C9BF,Manhattan
+167,E 39 St & 3 Ave,40.7489006,-73.97604882,Murray Hill,42,45,NYC,#3498DB,Manhattan
+168,W 18 St & 6 Ave,40.73971301,-73.99456405,Chelsea,41,47,NYC,#DAF2FD,Manhattan
+173,Broadway & W 49 St,40.76068327096592,-73.98452728986742,Diamond District,49,51,NYC,#80C9BF,Manhattan
+174,E 25 St & 1 Ave,40.7381765,-73.97738662,Kips Bay,27,30,NYC,#FD6D8D,Manhattan
+195,Liberty St & Broadway,40.70905623,-74.01043382,Southbridge Towers,43,45,NYC,#FCD22A,Manhattan
+212,W 16 St & The High Line,40.74334935,-74.00681753,Chelsea,25,28,NYC,#DAF2FD,Manhattan
+216,Columbia Heights & Cranberry St,40.70037867,-73.99548059,Brooklyn Heights,13,23,NYC,#D5D3F4,Brooklyn
+217,Old Fulton St,40.70277159,-73.99383605,DUMBO,21,39,NYC,#6DE2E9,Brooklyn
+223,W 13 St & 7 Ave,40.73781509,-73.99994661,Washington Square Village,0,33,NYC,#C7B39F,Manhattan
+228,E 48 St & 3 Ave,40.7546011026,-73.971878855,Tudor City,55,55,NYC,#55E08F,Manhattan
+229,Great Jones St,40.72743423,-73.99379025,NoHo Historic District,13,23,NYC,#C8C8C8,Manhattan
+232,Cadman Plaza E & Tillary St,40.69597683,-73.99014892,Downtown Brooklyn,9,23,NYC,#B2C908,Brooklyn
+236,St Marks Pl & 2 Ave,40.7284186,-73.98713956,East Village,26,39,NYC,#1ABC9C,Manhattan
+237,E 11 St & 2 Ave,40.73047309,-73.98672378,East Village,24,39,NYC,#1ABC9C,Manhattan
+238,Bank St & Washington St,40.7361967,-74.00859207,Greenwich Village,3,31,NYC,#EE1D24,Manhattan
+239,Willoughby St & Fleet St,40.69196566,-73.9813018,Downtown Brooklyn,17,31,NYC,#B2C908,Brooklyn
+241,DeKalb Ave & S Portland Ave,40.68981035,-73.97493121,Fort Greene,21,23,NYC,#F8F4BC,Brooklyn
+242,Carlton Ave & Flushing Ave,40.697787,-73.973736,Fort Greene,2,23,NYC,#F8F4BC,Brooklyn
+243,Fulton St & Rockwell Pl,40.688226,-73.979382,Fort Greene,7,31,NYC,#F8F4BC,Brooklyn
+244,Willoughby Ave & Hall St,40.69196035,-73.96536851,Fort Greene,26,31,NYC,#F8F4BC,Brooklyn
+245,Myrtle Ave & St Edwards St,40.69327018,-73.97703874,Fort Greene,13,23,NYC,#F8F4BC,Brooklyn
+247,Perry St & Bleecker St,40.73535398,-74.00483091,Greenwich Village,9,20,NYC,#EE1D24,Manhattan
+248,Laight St & Hudson St,40.72185379,-74.00771779,Tribeca,9,23,NYC,#E1A0A0,Manhattan
+249,Harrison St & Hudson St,40.71870987,-74.0090009,Tribeca,12,27,NYC,#E1A0A0,Manhattan
+251,Mott St & Prince St,40.72317958,-73.99480012,Five Points,2,27,NYC,#990033,Manhattan
+252,MacDougal St & Washington Sq,40.73226398,-73.99852205,Washington Square Village,0,24,NYC,#C7B39F,Manhattan
+253,W 13 St & 5 Ave,40.73543934,-73.99453948,Washington Square Village,52,55,NYC,#C7B39F,Manhattan
+254,W 11 St & 6 Ave,40.73532427,-73.99800419,Washington Square Village,16,31,NYC,#C7B39F,Manhattan
+257,Lispenard St & Broadway,40.71939226,-74.00247214,Tribeca,7,39,NYC,#E1A0A0,Manhattan
+258,DeKalb Ave & Vanderbilt Ave,40.68940747,-73.96885458,Fort Greene,11,23,NYC,#F8F4BC,Brooklyn
+259,South St & Whitehall St,40.70122128,-74.01234218,Southbridge Towers,30,39,NYC,#FCD22A,Manhattan
+260,Broad St & Bridge St,40.70365182,-74.01167797,Battery Park City,3,7,NYC,#FFF9AF,Manhattan
+261,Johnson St & Gold St,40.69474881,-73.98362464,Brooklyn Navy Yard,7,27,NYC,#DC3F1C,Brooklyn
+262,Washington Park,40.6917823,-73.97372990000001,Fort Greene,15,24,NYC,#F8F4BC,Brooklyn
+264,Maiden Ln & Pearl St,40.70706456,-74.00731853,Southbridge Towers,18,27,NYC,#FCD22A,Manhattan
+265,Stanton St & Chrystie St,40.72229346,-73.99147535,Bowery,9,35,NYC,#A39D63,Manhattan
+266,Avenue D & E 8 St,40.72368361,-73.97574813,Alphabet City,7,24,NYC,#FE3A3A,Manhattan
+267,Broadway & W 36 St,40.75097711,-73.98765428,Koreatown,56,57,NYC,#F0EFE4,Manhattan
+268,Howard St & Centre St,40.71910537,-73.99973337,Little Italy,6,27,NYC,#F5F5F5,Manhattan
+270,Adelphi St & Myrtle Ave,40.69308257,-73.97178913,Fort Greene,14,23,NYC,#F8F4BC,Brooklyn
+274,Lafayette Ave & Fort Greene Pl,40.68691865,-73.976682,Fort Greene,1,31,NYC,#F8F4BC,Brooklyn
+275,Washington Ave & Greene Ave,40.68650065,-73.96563307,Clinton Hill,18,19,NYC,#FFCC66,Brooklyn
+276,Duane St & Greenwich St,40.71748752,-74.0104554,Tribeca,10,25,NYC,#E1A0A0,Manhattan
+278,Concord St & Bridge St,40.69766564,-73.98476437,Brooklyn Navy Yard,12,19,NYC,#DC3F1C,Brooklyn
+279,Peck Slip & Front St,40.707873,-74.00166999999999,Southbridge Towers,20,36,NYC,#FCD22A,Manhattan
+280,E 10 St & 5 Ave,40.73331967,-73.99510132,Greenwich Village,28,31,NYC,#EE1D24,Manhattan
+281,Grand Army Plaza & Central Park S,40.764397100000004,-73.97371465,Diamond District,36,57,NYC,#80C9BF,Manhattan
+282,Kent Ave & S 11 St,40.7076449441757,-73.96841526031494,Greenpoint,17,27,NYC,#097575,Brooklyn
+285,Broadway & E 14 St,40.73454567,-73.99074142,NoHo,26,51,NYC,#AD5F43,Manhattan
+289,Monroe St & Classon Ave,40.684568299999995,-73.95881081,Bed-Stuy,6,19,NYC,#FFABAD,Brooklyn
+291,Madison St & Montgomery St,40.713126,-73.984844,Lower East Side,13,20,NYC,#003494,Manhattan
+293,Lafayette St & E 8 St,40.73020660529954,-73.99102628231049,NoHo,39,55,NYC,#AD5F43,Manhattan
+295,Pike St & E Broadway,40.71406667,-73.99293911,Chinatown,0,24,NYC,#88A764,Manhattan
+296,Division St & Bowery,40.71413089,-73.99704679999999,Five Points,1,35,NYC,#990033,Manhattan
+297,E 15 St & 3 Ave,40.734232,-73.986923,Gramercy Park,19,27,NYC,#7E48A7,Manhattan
+301,E 2 St & Avenue B,40.72217444,-73.98368779,Alphabet City,17,37,NYC,#FE3A3A,Manhattan
+302,Avenue D & E 3 St,40.72082834,-73.97793172,Alphabet City,8,23,NYC,#FE3A3A,Manhattan
+303,Mercer St & Spring St,40.72362738,-73.99949601,SoHo,13,31,NYC,#000846,Manhattan
+304,Broadway & Battery Pl,40.70463334,-74.01361706,Battery Park City,33,33,NYC,#FFF9AF,Manhattan
+305,E 58 St & 3 Ave,40.76095756,-73.96724467,Tudor City,32,33,NYC,#55E08F,Manhattan
+306,Cliff St & Fulton St,40.70823502,-74.00530063,Southbridge Towers,10,17,NYC,#FCD22A,Manhattan
+307,Canal St & Rutgers St,40.71427487,-73.98990025,Lower East Side,26,31,NYC,#003494,Manhattan
+308,St James Pl & Oliver St,40.71307916,-73.99851193,Two Bridges,2,27,NYC,#E2F5FB,Manhattan
+309,Murray St & West St,40.7149787,-74.013012,Tribeca,39,41,NYC,#E1A0A0,Manhattan
+310,State St & Smith St,40.68926942,-73.98912867,Boerum Hill Historic District,17,36,NYC,#5878BA,Brooklyn
+311,Norfolk St & Broome St,40.7172274,-73.98802084,Lower East Side,24,31,NYC,#003494,Manhattan
+312,Allen St & Stanton St,40.722055,-73.989111,Lower East Side,23,31,NYC,#003494,Manhattan
+313,Washington Ave & Park Ave,40.69610226,-73.96751037,Clinton Hill,20,23,NYC,#FFCC66,Brooklyn
+314,Cadman Plaza West & Montague St,40.69383,-73.990539,Brooklyn Heights,7,39,NYC,#D5D3F4,Brooklyn
+315,South St & Gouverneur Ln,40.70355377,-74.00670227,Southbridge Towers,16,29,NYC,#FCD22A,Manhattan
+316,Fulton St & William St,40.70955958,-74.00653609,Southbridge Towers,26,43,NYC,#FCD22A,Manhattan
+317,E 6 St & Avenue B,40.72453734,-73.98185424,Alphabet City,16,27,NYC,#FE3A3A,Manhattan
+319,Fulton St & Broadway,40.711065999999995,-74.009447,Tribeca,33,33,NYC,#E1A0A0,Manhattan
+320,Leonard St & Church St,40.717571,-74.005549,Tribeca,7,27,NYC,#E1A0A0,Manhattan
+321,Cadman Plaza E & Red Cross Pl,40.69991755,-73.98971773,DUMBO,24,27,NYC,#6DE2E9,Brooklyn
+322,Clinton St & Tillary St,40.696192,-73.991218,DUMBO,4,31,NYC,#6DE2E9,Brooklyn
+323,Lawrence St & Willoughby St,40.69236178,-73.98631746,Downtown Brooklyn,25,39,NYC,#B2C908,Brooklyn
+324,DeKalb Ave & Hudson Ave,40.689888,-73.981013,Downtown Brooklyn,1,51,NYC,#B2C908,Brooklyn
+325,E 19 St & 3 Ave,40.73624527,-73.98473765,Gramercy Park,23,35,NYC,#7E48A7,Manhattan
+326,E 11 St & 1 Ave,40.72953837,-73.98426726,East Village,14,27,NYC,#1ABC9C,Manhattan
+327,Vesey Pl & River Terrace,40.715337899999994,-74.01658354,Battery Park City,31,39,NYC,#FFF9AF,Manhattan
+328,Watts St & Greenwich St,40.72405549,-74.00965965,Tribeca,7,23,NYC,#E1A0A0,Manhattan
+330,Reade St & Broadway,40.71450451,-74.00562789,Tribeca,24,39,NYC,#E1A0A0,Manhattan
+331,Pike St & Monroe St,40.71173107,-73.99193043,Lower East Side,23,27,NYC,#003494,Manhattan
+332,Cherry St,40.71219906,-73.97948148,Lower East Side,12,24,NYC,#003494,Manhattan
+334,W 20 St & 7 Ave,40.74238787,-73.99726235,Chelsea,16,31,NYC,#DAF2FD,Manhattan
+335,Washington Pl & Broadway,40.72903917,-73.99404649,NoHo Historic District,17,27,NYC,#C8C8C8,Manhattan
+336,Sullivan St & Washington Sq,40.73047747,-73.99906065,Greenwich Village,2,36,NYC,#EE1D24,Manhattan
+337,Old Slip & Front St,40.703799200000006,-74.00838676,Southbridge Towers,36,37,NYC,#FCD22A,Manhattan
+339,Avenue D & E 12 St,40.72580614,-73.97422494,Alphabet City,11,24,NYC,#FE3A3A,Manhattan
+340,Madison St & Clinton St,40.71269042,-73.98776323,Lower East Side,24,27,NYC,#003494,Manhattan
+341,Stanton St & Mangin St,40.71782143,-73.97628939,Lower East Side,17,19,NYC,#003494,Manhattan
+342,Columbia St & Rivington St,40.71739973,-73.98016555,Alphabet City,16,29,NYC,#FE3A3A,Manhattan
+343,Clinton Ave & Flushing Ave,40.69794,-73.96986848,Brooklyn Navy Yard,8,23,NYC,#DC3F1C,Brooklyn
+344,Monroe St & Bedford Ave,40.6851443,-73.95380904,Bed-Stuy,18,23,NYC,#FFABAD,Brooklyn
+345,W 13 St & 6 Ave,40.73649403,-73.99704374,Washington Square Village,27,35,NYC,#C7B39F,Manhattan
+346,Bank St & Hudson St,40.73652889,-74.00618026,Greenwich Village,9,27,NYC,#EE1D24,Manhattan
+347,Greenwich St & W Houston St,40.728846000000004,-74.00859100000001,Greenwich Village,32,35,NYC,#EE1D24,Manhattan
+349,Rivington St & Ridge St,40.71850211,-73.98329859,Lower East Side,13,23,NYC,#003494,Manhattan
+350,Clinton St & Grand St,40.71559509,-73.9870295,Lower East Side,17,28,NYC,#003494,Manhattan
+351,Front St & Maiden Ln,40.70530954,-74.00612572,Southbridge Towers,38,39,NYC,#FCD22A,Manhattan
+353,S Portland Ave & Hanson Pl,40.68539567,-73.97431458,Fort Greene,7,27,NYC,#F8F4BC,Brooklyn
+354,Emerson Pl & Myrtle Ave,40.69363137,-73.96223558,Clinton Hill,13,23,NYC,#FFCC66,Brooklyn
+355,Bayard St & Baxter St,40.71602118,-73.99974372,Five Points,6,43,NYC,#990033,Manhattan
+356,Bialystoker Pl & Delancey St,40.71622644,-73.98261206,Lower East Side,0,23,NYC,#003494,Manhattan
+357,E 11 St & Broadway,40.73261787,-73.99158043,Washington Square Village,24,27,NYC,#C7B39F,Manhattan
+358,Christopher St & Greenwich St,40.73291553,-74.00711384,Greenwich Village,0,36,NYC,#EE1D24,Manhattan
+359,E 47 St & Park Ave,40.75510267,-73.97498696,Diamond District,51,53,NYC,#80C9BF,Manhattan
+360,William St & Pine St,40.70717936,-74.00887308,Southbridge Towers,38,39,NYC,#FCD22A,Manhattan
+361,Allen St & Hester St,40.71605866,-73.99190759,Lower East Side,37,43,NYC,#003494,Manhattan
+362,Broadway & W 37 St,40.75172632,-73.98753523,Koreatown,57,57,NYC,#F0EFE4,Manhattan
+363,West Thames St,40.70834698,-74.01713445,Battery Park City,27,49,NYC,#FFF9AF,Manhattan
+364,Lafayette Ave & Classon Ave,40.68900443,-73.96023854,Clinton Hill,18,27,NYC,#FFCC66,Brooklyn
+365,Fulton St & Grand Ave,40.68223166,-73.9614583,Clinton Hill,15,31,NYC,#FFCC66,Brooklyn
+366,Clinton Ave & Myrtle Ave,40.693261,-73.968896,Clinton Hill,26,33,NYC,#FFCC66,Brooklyn
+368,Carmine St & 6 Ave,40.73038599,-74.00214988,Greenwich Village,7,39,NYC,#EE1D24,Manhattan
+369,Washington Pl & 6 Ave,40.73224119,-74.00026394,Washington Square Village,7,35,NYC,#C7B39F,Manhattan
+372,Franklin Ave & Myrtle Ave,40.694546087246025,-73.95801365375519,Clinton Hill,2,27,NYC,#FFCC66,Brooklyn
+373,Willoughby Ave & Walworth St,40.69331716,-73.95381995,Fort Greene,4,19,NYC,#F8F4BC,Brooklyn
+376,John St & William St,40.70862144,-74.00722156,Southbridge Towers,24,43,NYC,#FCD22A,Manhattan
+377,6 Ave & Canal St,40.72243797,-74.00566443,Greenwich Village,37,45,NYC,#EE1D24,Manhattan
+379,W 31 St & 7 Ave,40.749156,-73.9916,Chelsea,8,42,NYC,#DAF2FD,Manhattan
+380,W 4 St & 7 Ave S,40.73401143,-74.00293877,Greenwich Village,14,39,NYC,#EE1D24,Manhattan
+382,University Pl & E 14 St,40.73492695,-73.99200509,Washington Square Village,22,36,NYC,#C7B39F,Manhattan
+383,Greenwich Ave & Charles St,40.735238,-74.000271,Greenwich Village,14,39,NYC,#EE1D24,Manhattan
+385,E 55 St & 2 Ave,40.75797322,-73.96603308,Tudor City,0,0,NYC,#55E08F,Manhattan
+386,Centre St & Worth St,40.71494807,-74.00234482,Southbridge Towers,22,43,NYC,#FCD22A,Manhattan
+387,Centre St & Chambers St,40.71273266,-74.0046073,Southbridge Towers,37,39,NYC,#FCD22A,Manhattan
+388,W 26 St & 10 Ave,40.749717753,-74.002950346,Chelsea,35,35,NYC,#DAF2FD,Manhattan
+389,Broadway & Berry St,40.71044554,-73.96525063,Williamsburg,18,27,NYC,#ED7710,Brooklyn
+390,Duffield St & Willoughby St,40.69221589,-73.9842844,Downtown Brooklyn,2,31,NYC,#B2C908,Brooklyn
+391,Clark St & Henry St,40.69760127,-73.99344559,Brooklyn Heights,12,31,NYC,#D5D3F4,Brooklyn
+392,Jay St & Tech Pl,40.695065,-73.987167,Downtown Brooklyn,11,35,NYC,#B2C908,Brooklyn
+393,E 5 St & Avenue C,40.72299208,-73.97995466,Alphabet City,16,31,NYC,#FE3A3A,Manhattan
+394,E 9 St & Avenue C,40.72521311,-73.97768752,Alphabet City,18,32,NYC,#FE3A3A,Manhattan
+396,Lefferts Pl & Franklin Ave,40.680342423,-73.9557689392,Prospect Heights,7,25,NYC,#00468A,Brooklyn
+397,Fulton St & Clermont Ave,40.68415748,-73.96922273,Fort Greene,26,27,NYC,#F8F4BC,Brooklyn
+398,Atlantic Ave & Furman St,40.69165183,-73.99997859999999,Columbia Street Waterfront District,13,31,NYC,#FF9966,Brooklyn
+399,Lafayette Ave & St James Pl,40.68851534,-73.9647628,Clinton Hill,16,27,NYC,#FFCC66,Brooklyn
+400,Pitt St & Stanton St,40.71926081,-73.98178024,Lower East Side,15,15,NYC,#003494,Manhattan
+401,Allen St & Rivington St,40.72019576,-73.98997825000002,Lower East Side,39,42,NYC,#003494,Manhattan
+402,Broadway & E 22 St,40.740343200000005,-73.98955109,Flatiron Building,14,39,NYC,#8DB71B,Manhattan
+403,E 2 St & 2 Ave,40.72502876,-73.99069656,Bowery,0,31,NYC,#A39D63,Manhattan
+405,Washington St & Gansevoort St,40.739323,-74.008119,Greenwich Village,20,40,NYC,#EE1D24,Manhattan
+406,Hicks St & Montague St,40.69512845,-73.99595065,Brooklyn Heights,32,34,NYC,#D5D3F4,Brooklyn
+407,Henry St & Poplar St,40.700469,-73.991454,DUMBO,14,37,NYC,#6DE2E9,Brooklyn
+408,Market St & Cherry St,40.71076228,-73.99400398,Two Bridges,14,23,NYC,#E2F5FB,Manhattan
+409,DeKalb Ave & Skillman St,40.6906495,-73.95643107,Clinton Hill,18,19,NYC,#FFCC66,Brooklyn
+410,Suffolk St & Stanton St,40.72066442,-73.98517977,Lower East Side,20,35,NYC,#003494,Manhattan
+411,E 6 St & Avenue D,40.72228087,-73.97668709,Alphabet City,19,23,NYC,#FE3A3A,Manhattan
+412,Forsyth St & Canal St,40.715815500000005,-73.99422366,Chinatown,15,29,NYC,#88A764,Manhattan
+414,Pearl St & Anchorage Pl,40.70281858,-73.98765762,Vinegar Hill,1,24,NYC,#FE374A,Brooklyn
+415,Pearl St & Hanover Square,40.7047177,-74.00926027,Southbridge Towers,37,42,NYC,#FCD22A,Manhattan
+416,Cumberland St & Lafayette Ave,40.68753406,-73.97265183,Fort Greene,14,31,NYC,#F8F4BC,Brooklyn
+417,Barclay St & Church St,40.71291224,-74.01020234,Tribeca,14,23,NYC,#E1A0A0,Manhattan
+418,Front St & Gold St,40.70224,-73.982578,DUMBO,3,23,NYC,#6DE2E9,Brooklyn
+419,Carlton Ave & Park Ave,40.69580705,-73.97355569,Fort Greene,16,23,NYC,#F8F4BC,Brooklyn
+420,Clermont Ave & Lafayette Ave,40.68764484,-73.96968902,Fort Greene,8,23,NYC,#F8F4BC,Brooklyn
+421,Clermont Ave & Park Ave,40.69573398,-73.97129668,Fort Greene,16,19,NYC,#F8F4BC,Brooklyn
+422,W 59 St & 10 Ave,40.770513,-73.988038,Hell's Kitchen,54,55,NYC,#AD78C0,Manhattan
+423,W 54 St & 9 Ave,40.76584941,-73.98690506,Hell's Kitchen,25,27,NYC,#AD78C0,Manhattan
+426,West St & Chambers St,40.71754834,-74.01322069,Tribeca,20,29,NYC,#E1A0A0,Manhattan
+427,Bus Slip & State St,40.701907,-74.013942,Battery Park City,31,47,NYC,#FFF9AF,Manhattan
+432,E 7 St & Avenue A,40.72621788,-73.98379855,Alphabet City,12,31,NYC,#FE3A3A,Manhattan
+433,E 13 St & Avenue A,40.72955361,-73.98057249,Alphabet City,24,39,NYC,#FE3A3A,Manhattan
+435,W 21 St & 6 Ave,40.74173969,-73.99415556,Chelsea,30,47,NYC,#DAF2FD,Manhattan
+436,Hancock St & Bedford Ave,40.68216564,-73.95399026,Clinton Hill,11,27,NYC,#FFCC66,Brooklyn
+437,Macon St & Nostrand Ave,40.6809833854,-73.9500479759,Bed - Stuy,7,24,NYC,#956642,Brooklyn
+438,St Marks Pl & 1 Ave,40.72779126,-73.98564945,East Village,14,41,NYC,#1ABC9C,Manhattan
+439,E 4 St & 2 Ave,40.726280700000004,-73.98978041,NoHo Historic District,9,39,NYC,#C8C8C8,Manhattan
+440,E 45 St & 3 Ave,40.75255434,-73.97282625,Tudor City,29,32,NYC,#55E08F,Manhattan
+441,E 52 St & 2 Ave,40.756014,-73.967416,Diamond District,35,35,NYC,#80C9BF,Manhattan
+442,W 27 St & 7 Ave,40.746646999999996,-73.993915,Flatiron Building,37,51,NYC,#8DB71B,Manhattan
+443,Bedford Ave & S 9 St,40.70853074,-73.96408963,Williamsburg,9,23,NYC,#ED7710,Brooklyn
+445,E 10 St & Avenue A,40.72740794,-73.98142006,Alphabet City,32,52,NYC,#FE3A3A,Manhattan
+446,W 24 St & 7 Ave,40.74487634,-73.99529885,Chelsea,14,39,NYC,#DAF2FD,Manhattan
+447,8 Ave & W 52 St,40.76370739,-73.9851615,Hell's Kitchen,22,23,NYC,#AD78C0,Manhattan
+448,W 37 St & 10 Ave,40.75660359,-73.9979009,Hell's Kitchen,24,31,NYC,#AD78C0,Manhattan
+449,W 52 St & 9 Ave,40.76461837,-73.98789473,Hell's Kitchen,0,5,NYC,#AD78C0,Manhattan
+450,W 49 St & 8 Ave,40.76227205,-73.98788205,Hell's Kitchen,53,59,NYC,#AD78C0,Manhattan
+453,W 22 St & 8 Ave,40.74475148,-73.99915362,Chelsea,0,39,NYC,#DAF2FD,Manhattan
+454,E 51 St & 1 Ave,40.75455731,-73.96592976,Diamond District,35,35,NYC,#80C9BF,Manhattan
+455,1 Ave & E 44 St,40.75001986,-73.96905301,Tudor City,36,39,NYC,#55E08F,Manhattan
+456,E 53 St & Madison Ave,40.75971079999999,-73.97402311,Diamond District,30,35,NYC,#80C9BF,Manhattan
+457,Broadway & W 58 St,40.76695317,-73.98169333,Diamond District,39,39,NYC,#80C9BF,Manhattan
+458,11 Ave & W 27 St,40.751396,-74.00522600000001,Chelsea,26,31,NYC,#DAF2FD,Manhattan
+459,W 20 St & 11 Ave,40.746745000000004,-74.007756,Chelsea,4,49,NYC,#DAF2FD,Manhattan
+460,S 4 St & Wythe Ave,40.71285887,-73.96590294,Williamsburg,14,23,NYC,#ED7710,Brooklyn
+461,E 20 St & 2 Ave,40.73587678,-73.98205027,Gramercy Park,39,39,NYC,#7E48A7,Manhattan
+462,W 22 St & 10 Ave,40.74691959,-74.00451887,Chelsea,41,47,NYC,#DAF2FD,Manhattan
+465,Broadway & W 41 St,40.75513557,-73.98658032,Diamond District,30,39,NYC,#80C9BF,Manhattan
+466,W 25 St & 6 Ave,40.74395411,-73.99144871,Midtown South Central,35,35,NYC,#FFA800,Manhattan
+467,Dean St & 4 Ave,40.68312489,-73.97895137,Park Slope,4,34,NYC,#FAF6E0,Brooklyn
+468,Broadway & W 56 St,40.7652654,-73.98192338,Diamond District,49,49,NYC,#80C9BF,Manhattan
+469,Broadway & W 53 St,40.76344058,-73.98268129,Diamond District,57,57,NYC,#80C9BF,Manhattan
+470,W 20 St & 8 Ave,40.74345335,-74.00004031,Chelsea,0,13,NYC,#DAF2FD,Manhattan
+471,Grand St & Havemeyer St,40.71286844,-73.95698119,Williamsburg,10,31,NYC,#ED7710,Brooklyn
+472,E 32 St & Park Ave,40.745712100000006,-73.98194829,Murray Hill,38,41,NYC,#3498DB,Manhattan
+473,Rivington St & Chrystie St,40.72110063,-73.99192540000001,Lower East Side,16,38,NYC,#003494,Manhattan
+474,5 Ave & E 29 St,40.7451677,-73.98683077,Nomad,46,47,NYC,#DB9B63,Manhattan
+476,E 31 St & 3 Ave,40.74394314,-73.97966069,Kips Bay,45,47,NYC,#FD6D8D,Manhattan
+477,W 41 St & 8 Ave,40.75640548,-73.9900262,Diamond District,12,59,NYC,#80C9BF,Manhattan
+478,11 Ave & W 41 St,40.76030096,-73.99884222,Hell's Kitchen,18,31,NYC,#AD78C0,Manhattan
+479,9 Ave & W 45 St,40.76019252,-73.9912551,Hell's Kitchen,29,31,NYC,#AD78C0,Manhattan
+480,W 53 St & 10 Ave,40.76669671,-73.99061728,Hell's Kitchen,24,27,NYC,#AD78C0,Manhattan
+481,S 3 St & Bedford Ave,40.71260486,-73.96264403,Williamsburg,22,25,NYC,#ED7710,Brooklyn
+482,W 15 St & 7 Ave,40.73935542,-73.99931783,Chelsea,1,39,NYC,#DAF2FD,Manhattan
+483,E 12 St & 3 Ave,40.73223272,-73.98889957,East Village,23,35,NYC,#1ABC9C,Manhattan
+485,W 37 St & 5 Ave,40.75038009,-73.98338988,Koreatown,39,39,NYC,#F0EFE4,Manhattan
+486,Broadway & W 29 St,40.7462009,-73.98855723,Nomad,37,39,NYC,#DB9B63,Manhattan
+487,E 20 St & FDR Drive,40.73314259,-73.97573881,Peter Cooper Village,12,36,NYC,#FFF054,Manhattan
+490,8 Ave & W 33 St,40.751551,-73.993934,Chelsea,10,59,NYC,#DAF2FD,Manhattan
+491,E 24 St & Park Ave S,40.74096374,-73.98602213,Flatiron Building,53,53,NYC,#8DB71B,Manhattan
+492,W 33 St & 7 Ave,40.75019995,-73.99093085,Koreatown,57,61,NYC,#F0EFE4,Manhattan
+494,W 26 St & 8 Ave,40.74734825,-73.99723551,Chelsea,4,35,NYC,#DAF2FD,Manhattan
+495,W 47 St & 10 Ave,40.76269882,-73.99301222,Hell's Kitchen,12,25,NYC,#AD78C0,Manhattan
+496,E 16 St & 5 Ave,40.73726186,-73.99238967,Flatiron Building,27,47,NYC,#8DB71B,Manhattan
+497,E 17 St & Broadway,40.73704984,-73.99009296,Flatiron Building,24,59,NYC,#8DB71B,Manhattan
+498,Broadway & W 32 St,40.74854862,-73.98808416,Koreatown,20,30,NYC,#F0EFE4,Manhattan
+499,Broadway & W 60 St,40.76915505,-73.98191841,Upper West Side,34,36,NYC,#FFBF00,Manhattan
+500,Broadway & W 51 St,40.76228826,-73.98336183,Diamond District,50,52,NYC,#80C9BF,Manhattan
+501,FDR Drive & E 35 St,40.744219,-73.97121214,Tudor City,37,43,NYC,#55E08F,Manhattan
+502,Henry St & Grand St,40.714215,-73.981346,Lower East Side,7,30,NYC,#003494,Manhattan
+503,E 20 St & Park Ave,40.73827428,-73.98751968,Flatiron District,28,29,NYC,#8FCEC8,Manhattan
+504,1 Ave & E 16 St,40.73221853,-73.98165557,Stuyvesant Town,26,45,NYC,#547033,Manhattan
+505,6 Ave & W 33 St,40.74901271,-73.98848395,Koreatown,26,36,NYC,#F0EFE4,Manhattan
+507,E 25 St & 2 Ave,40.73912601,-73.97973776,Kips Bay,37,45,NYC,#FD6D8D,Manhattan
+508,W 46 St & 11 Ave,40.76341379,-73.99667444,Hell's Kitchen,21,24,NYC,#AD78C0,Manhattan
+509,9 Ave & W 22 St,40.7454973,-74.00197139,Chelsea,0,36,NYC,#DAF2FD,Manhattan
+513,W 56 St & 10 Ave,40.768254,-73.988639,Hell's Kitchen,23,27,NYC,#AD78C0,Manhattan
+514,12 Ave & W 40 St,40.76087502,-74.00277668,Midtown West,21,52,NYC,#FF4500,Manhattan
+515,W 43 St & 10 Ave,40.76009437,-73.99461843,Hell's Kitchen,27,35,NYC,#AD78C0,Manhattan
+516,E 47 St & 1 Ave,40.75206862,-73.96784384,Tudor City,30,31,NYC,#55E08F,Manhattan
+517,Pershing Square South,40.751581,-73.97791,Murray Hill,59,59,NYC,#3498DB,Manhattan
+518,E 39 St & 2 Ave,40.74780373,-73.97344190000001,Tudor City,38,39,NYC,#55E08F,Manhattan
+519,Pershing Square North,40.751872999999996,-73.97770600000001,Murray Hill,56,61,NYC,#3498DB,Manhattan
+520,W 52 St & 5 Ave,40.75992262,-73.97648516,Hell's Kitchen,12,12,NYC,#AD78C0,Manhattan
+522,E 51 St & Lexington Ave,40.75714758,-73.97207836,Diamond District,21,23,NYC,#80C9BF,Manhattan
+523,W 38 St & 8 Ave,40.75466591,-73.99138152,Koreatown,51,51,NYC,#F0EFE4,Manhattan
+524,W 43 St & 6 Ave,40.75527307,-73.98316936,Diamond District,57,57,NYC,#80C9BF,Manhattan
+525,W 34 St & 11 Ave,40.75594159,-74.0021163,Chelsea,34,39,NYC,#DAF2FD,Manhattan
+526,E 33 St & 5 Ave,40.74765947,-73.98490707,Midtown South Central,38,39,NYC,#FFA800,Manhattan
+527,E 33 St & 2 Ave,40.744023,-73.976056,Kips Bay,57,59,NYC,#FD6D8D,Manhattan
+528,2 Ave & E 31 St,40.74290902,-73.97706058,Kips Bay,37,39,NYC,#FD6D8D,Manhattan
+529,W 42 St & 8 Ave,40.75756989999999,-73.99098507,Hell's Kitchen,0,41,NYC,#AD78C0,Manhattan
+530,11 Ave & W 59 St,40.771522,-73.99054100000001,Hell's Kitchen,16,24,NYC,#AD78C0,Manhattan
+531,Forsyth St & Broome St,40.71893904,-73.99266288,Bowery,14,39,NYC,#A39D63,Manhattan
+532,S 5 Pl & S 5 St,40.710451,-73.960876,Williamsburg,26,43,NYC,#ED7710,Brooklyn
+533,Broadway & W 38 St,40.75299641,-73.98721619,Koreatown,45,46,NYC,#F0EFE4,Manhattan
+534,Water - Whitehall Plaza,40.70255065,-74.0127234,Battery Park City,31,31,NYC,#FFF9AF,Manhattan
+536,1 Ave & E 30 St,40.74144387,-73.97536082,Kips Bay,27,29,NYC,#FD6D8D,Manhattan
+537,Lexington Ave & E 24 St,40.74025878,-73.98409214,Kips Bay,36,39,NYC,#FD6D8D,Manhattan
+539,Metropolitan Ave & Bedford Ave,40.71534825,-73.96024116,Greenpoint,7,31,NYC,#097575,Brooklyn
+540,Lexington Ave & E 29 St,40.74311555376486,-73.98215353488922,Rose Hill,28,30,NYC,#004275,Manhattan
+545,E 23 St & 1 Ave,40.736502,-73.97809472,Kips Bay,22,27,NYC,#FD6D8D,Manhattan
+546,E 30 St & Park Ave S,40.74444921,-73.98303529,Rose Hill,38,38,NYC,#004275,Manhattan
+2000,Front St & Washington St,40.70255088,-73.98940236,DUMBO,22,30,NYC,#6DE2E9,Brooklyn
+2001,Sands St & Navy St,40.699773,-73.979927,Vinegar Hill,6,15,NYC,#FE374A,Brooklyn
+2002,Wythe Ave & Metropolitan Ave,40.716887,-73.96319799999999,Greenpoint,7,27,NYC,#097575,Brooklyn
+2003,1 Ave & E 18 St,40.73381219196632,-73.9805442094803,Stuyvesant Town,28,39,NYC,#547033,Manhattan
+2005,Railroad Ave & Kay Ave,40.70531194,-73.97100056,Brooklyn Navy Yard,5,12,NYC,#DC3F1C,Brooklyn
+2006,Central Park S & 6 Ave,40.76590936,-73.97634151,Central Park,47,49,NYC,#A6D878,Manhattan
+2008,Little West St & 1 Pl,40.70569254,-74.01677685,Battery Park City,15,24,NYC,#FFF9AF,Manhattan
+2009,Catherine St & Monroe St,40.71117444,-73.99682619,Five Points,20,35,NYC,#990033,Manhattan
+2010,Grand St & Greene St,40.72165481,-74.00234737,SoHo,9,39,NYC,#000846,Manhattan
+2012,E 27 St & 1 Ave,40.739445,-73.97680600000001,Kips Bay,33,36,NYC,#FD6D8D,Manhattan
+2021,W 45 St & 8 Ave,40.75929124,-73.98859651,Hell's Kitchen,42,43,NYC,#AD78C0,Manhattan
+2022,E 60 St & York Ave,40.759107,-73.959223,Upper East Side,29,33,NYC,#3FCAE6,Manhattan
+2023,E 55 St & Lexington Ave,40.75968085,-73.97031366,Diamond District,1,32,NYC,#80C9BF,Manhattan
+3002,South End Ave & Liberty St,40.711512,-74.01575600000001,Battery Park City,24,25,NYC,#FFF9AF,Manhattan
+3016,Kent Ave & N 7 St,40.72036775298455,-73.96165072917937,Williamsburg,2,47,NYC,#ED7710,Brooklyn
+3041,Kingston Ave & Herkimer St,40.67890679,-73.94142771,Bed - Stuy,23,24,NYC,#956642,Brooklyn
+3042,Fulton St & Utica Ave,40.6794268,-73.92989109999999,Bed - Stuy,18,19,NYC,#956642,Brooklyn
+3043,Lewis Ave & Decatur St,40.6814598,-73.934903,Bed - Stuy,18,19,NYC,#956642,Brooklyn
+3044,Albany Ave & Fulton St,40.6800105,-73.938475,Bed - Stuy,26,27,NYC,#956642,Brooklyn
+3046,Marcus Garvey Blvd & Macon St,40.682601,-73.938037,Bed - Stuy,2,19,NYC,#956642,Brooklyn
+3047,Halsey St & Tompkins Ave,40.682368700000005,-73.944118,Bed - Stuy,10,21,NYC,#956642,Brooklyn
+3048,Putnam Ave & Nostrand Ave,40.684020000000004,-73.94977,Bed-Stuy,14,19,NYC,#FFABAD,Brooklyn
+3049,Cambridge Pl & Gates Ave,40.68488,-73.96304,Clinton Hill,15,18,NYC,#FFCC66,Brooklyn
+3050,Putnam Ave & Throop Ave,40.6851532,-73.94111,Bed - Stuy,19,21,NYC,#956642,Brooklyn
+3052,Lewis Ave & Madison St,40.686312,-73.935775,Bed-Stuy,21,23,NYC,#FFABAD,Brooklyn
+3053,Marcy Ave & Lafayette Ave,40.6900815,-73.94791500000001,Bed-Stuy,9,23,NYC,#FFABAD,Brooklyn
+3054,Greene Ave & Throop Ave,40.6894932,-73.942061,Bed-Stuy,14,19,NYC,#FFABAD,Brooklyn
+3055,Greene Ave & Nostrand Ave,40.68833370000001,-73.950916,Bed-Stuy,18,23,NYC,#FFABAD,Brooklyn
+3056,Kosciuszko St & Nostrand Ave,40.69072549,-73.95133465,Bed-Stuy,0,23,NYC,#FFABAD,Brooklyn
+3057,Kosciuszko St & Tompkins Ave,40.69128258,-73.9452416,Bed - Stuy,16,18,NYC,#956642,Brooklyn
+3058,Lewis Ave & Kosciuszko St,40.69237074,-73.93705428,Bed-Stuy,23,24,NYC,#FFABAD,Brooklyn
+3059,Pulaski St & Marcus Garvey Blvd,40.693398200000004,-73.939877,Bed - Stuy,18,19,NYC,#956642,Brooklyn
+3060,Willoughby Ave & Tompkins Ave,40.69425403,-73.94626915,Bed-Stuy,7,19,NYC,#FFABAD,Brooklyn
+3061,Throop Ave & Myrtle Ave,40.69622937,-73.94371094,Bed - Stuy,19,21,NYC,#956642,Brooklyn
+3062,Myrtle Ave & Marcy Ave,40.69539817,-73.94954908,Clinton Hill,6,23,NYC,#FFCC66,Brooklyn
+3063,Nostrand Ave & Myrtle Ave,40.69527008,-73.95238108,Bed-Stuy,1,20,NYC,#FFABAD,Brooklyn
+3064,Myrtle Ave & Lewis Ave,40.69681963,-73.93756926,Bed-Stuy,19,23,NYC,#FFABAD,Brooklyn
+3065,Union Ave & Wallabout St,40.70029511,-73.95032283,Williamsburg,4,27,NYC,#ED7710,Brooklyn
+3066,Tompkins Ave & Hopkins St,40.69957608,-73.94708417,Williamsburg,6,19,NYC,#ED7710,Brooklyn
+3067,Broadway & Whipple St,40.7016657,-73.9437303,Williamsburg,0,27,NYC,#ED7710,Brooklyn
+3068,Humboldt St & Varet St,40.7031724,-73.940636,Williamsburg,7,24,NYC,#ED7710,Brooklyn
+3069,Lorimer St & Broadway,40.70411791,-73.94818595,Williamsburg,4,25,NYC,#ED7710,Brooklyn
+3070,McKibbin St & Manhattan Ave,40.70510918,-73.94407279,Williamsburg,12,23,NYC,#ED7710,Brooklyn
+3071,Boerum St & Broadway,40.70538077,-73.94976519,Williamsburg,2,19,NYC,#ED7710,Brooklyn
+3072,Leonard St & Boerum St,40.70583339,-73.94644578,Greenpoint,3,24,NYC,#097575,Brooklyn
+3073,Division Ave & Hooper St,40.70691254,-73.95441667,Williamsburg,19,27,NYC,#ED7710,Brooklyn
+3074,Montrose Ave & Bushwick Ave,40.70767788,-73.94016171,Williamsburg,9,31,NYC,#ED7710,Brooklyn
+3075,Division Ave & Marcy Ave,40.70708701,-73.95796783,Williamsburg,28,33,NYC,#ED7710,Brooklyn
+3076,Scholes St & Manhattan Ave,40.70870368,-73.9448625,Williamsburg,18,24,NYC,#ED7710,Brooklyn
+3077,Stagg St & Union Ave,40.70877084,-73.95095259,Williamsburg,20,33,NYC,#ED7710,Brooklyn
+3078,Broadway & Roebling St,40.70924826276157,-73.96063148975372,Williamsburg,15,27,NYC,#ED7710,Brooklyn
+3080,S 4 St & Rodney St,40.709340000000005,-73.95608,Williamsburg,18,21,NYC,#ED7710,Brooklyn
+3081,Graham Ave & Grand St,40.711863,-73.944024,Williamsburg,12,23,NYC,#ED7710,Brooklyn
+3082,Hope St & Union Ave,40.71167351,-73.95141312,Williamsburg,15,25,NYC,#ED7710,Brooklyn
+3083,Bushwick Ave & Powers St,40.71247661,-73.94100005,Williamsburg,12,30,NYC,#ED7710,Brooklyn
+3085,Roebling St & N 4 St,40.714690000000004,-73.95739,Williamsburg,1,25,NYC,#ED7710,Brooklyn
+3086,Graham Ave & Conselyea St,40.715143,-73.944507,Williamsburg,5,25,NYC,#ED7710,Brooklyn
+3087,Metropolitan Ave & Meeker Ave,40.71413311,-73.95234386,Williamsburg,25,30,NYC,#ED7710,Brooklyn
+3088,Union Ave & Jackson St,40.7160751,-73.95202900000001,Williamsburg,10,19,NYC,#ED7710,Brooklyn
+3090,N 8 St & Driggs Ave,40.71774592,-73.95600096,Williamsburg,8,31,NYC,#ED7710,Brooklyn
+3091,Frost St & Meeker St,40.71764,-73.94882,Williamsburg,16,31,NYC,#ED7710,Brooklyn
+3092,Berry St & N 8 St,40.7190095,-73.95852515,Greenpoint,6,27,NYC,#097575,Brooklyn
+3093,N 6 St & Bedford Ave,40.71745169,-73.95850939,Williamsburg,7,28,NYC,#ED7710,Brooklyn
+3094,Graham Ave & Withers St,40.7169811,-73.94485918,Williamsburg,10,18,NYC,#ED7710,Brooklyn
+3095,Graham Ave & Herbert St,40.71929301,-73.94500379,Williamsburg,21,23,NYC,#ED7710,Brooklyn
+3096,Union Ave & N 12 St,40.71924,-73.95241999999999,Williamsburg,0,39,NYC,#ED7710,Brooklyn
+3100,Nassau Ave & Newell St,40.724812564400175,-73.94752621650694,Greenpoint,22,39,NYC,#097575,Brooklyn
+3101,N 12 St & Bedford Ave,40.72079821,-73.95484712,Greenpoint,7,27,NYC,#097575,Brooklyn
+3102,Driggs Ave & Lorimer St,40.72179134,-73.95041540000001,Greenpoint,10,27,NYC,#097575,Brooklyn
+3105,N 15 St & Wythe Ave,40.724055,-73.955736,Greenpoint,5,24,NYC,#097575,Brooklyn
+3106,Driggs Ave & N Henry St,40.72325,-73.94308000000001,Greenpoint,9,19,NYC,#097575,Brooklyn
+3107,Bedford Ave & Nassau Ave,40.72311651,-73.95212324,Greenpoint,7,39,NYC,#097575,Brooklyn
+3108,Nassau Ave & Russell St,40.725570000000005,-73.94434,Greenpoint,20,24,NYC,#097575,Brooklyn
+3109,Banker St & Meserole Ave,40.72606,-73.95621,Greenpoint,1,31,NYC,#097575,Brooklyn
+3110,Meserole Ave & Manhattan Ave,40.72708584,-73.95299117,Greenpoint,13,27,NYC,#097575,Brooklyn
+3112,Milton St & Franklin St,40.72906,-73.95779,Greenpoint,7,33,NYC,#097575,Brooklyn
+3113,Greenpoint Ave & Manhattan Ave,40.730259999999994,-73.95394,Greenpoint,1,27,NYC,#097575,Brooklyn
+3115,India St & Manhattan Ave,40.73232194,-73.9550858,Greenpoint,0,34,NYC,#097575,Brooklyn
+3116,Huron St & Franklin St,40.732659999999996,-73.95826,Greenpoint,2,45,NYC,#097575,Brooklyn
+3117,Franklin St & Dupont St,40.73564,-73.95866,Greenpoint,21,27,NYC,#097575,Brooklyn
+3118,McGuinness Blvd & Eagle St,40.73555,-73.95284000000001,Greenpoint,10,30,NYC,#097575,Brooklyn
+3119,Vernon Blvd & 50 Ave,40.74232744,-73.95411749,LIC,16,45,NYC,#EBE18C,Queens
+3120,Center Blvd & Borden Ave,40.741609999999994,-73.96044,LIC,6,20,NYC,#EBE18C,Queens
+3121,Jackson Ave & 46 Rd,40.74524768,-73.94733276,LIC,24,27,NYC,#EBE18C,Queens
+3122,48 Ave & 5 St,40.74436328706688,-73.95587325096129,LIC,3,31,NYC,#EBE18C,Queens
+3123,31 St & Thomson Ave,40.74469738,-73.93540375,Sunnyside,23,27,NYC,#3794DD,Queens
+3124,46 Ave & 5 St,40.74731,-73.95451,LIC,20,27,NYC,#EBE18C,Queens
+3125,45 Rd & 11 St,40.74708586,-73.94977234,LIC,21,23,NYC,#EBE18C,Queens
+3126,44 Dr & Jackson Ave,40.74718234,-73.9432635,LIC,23,34,NYC,#EBE18C,Queens
+3127,9 St & 44 Rd,40.74966,-73.9521,LIC,17,35,NYC,#EBE18C,Queens
+3128,21 St & 43 Ave,40.75052534,-73.94594845,LIC,20,23,NYC,#EBE18C,Queens
+3129,Queens Plaza North & Crescent St,40.75110165,-73.94073717,LIC,23,31,NYC,#EBE18C,Queens
+3130,21 St & Queens Plaza North,40.75325964,-73.94335788,LIC,30,31,NYC,#EBE18C,Queens
+3131,E 68 St & 3 Ave,40.76712840349542,-73.96224617958069,Lenox Hill,29,31,NYC,#CBA9D7,Manhattan
+3132,E 59 St & Madison Ave,40.76350532,-73.97109243,Upper East Side,34,35,NYC,#3FCAE6,Manhattan
+3134,3 Ave & E 62 St,40.76312584,-73.96526895,Lenox Hill,51,51,NYC,#CBA9D7,Manhattan
+3135,E 75 St & 3 Ave,40.77112927,-73.95772297,Lenox Hill,33,41,NYC,#CBA9D7,Manhattan
+3136,5 Ave & E 63 St,40.766368,-73.971518,Upper East Side,34,47,NYC,#3FCAE6,Manhattan
+3139,E 72 St & Park Ave,40.77118287540658,-73.96409422159195,Upper East Side,34,43,NYC,#3FCAE6,Manhattan
+3140,1 Ave & E 78 St,40.77140426,-73.9535166,Lenox Hill,31,55,NYC,#CBA9D7,Manhattan
+3141,1 Ave & E 68 St,40.76500525,-73.95818491,Lenox Hill,54,59,NYC,#CBA9D7,Manhattan
+3142,1 Ave & E 62 St,40.761227399999996,-73.96094022,Lenox Hill,37,41,NYC,#CBA9D7,Manhattan
+3143,5 Ave & E 78 St,40.77632142182271,-73.96427392959596,Upper East Side,45,47,NYC,#3FCAE6,Manhattan
+3144,E 81 St & Park Ave,40.77677702,-73.95900970000001,Yorkville,40,46,NYC,#797D88,Manhattan
+3145,E 84 St & Park Ave,40.77862688,-73.95772073,Yorkville,40,45,NYC,#797D88,Manhattan
+3146,E 81 St & 3 Ave,40.77573034,-73.9567526,Yorkville,37,47,NYC,#797D88,Manhattan
+3147,E 85 St & 3 Ave,40.77801203,-73.95407149,Yorkville,28,39,NYC,#797D88,Manhattan
+3148,E 84 St & 1 Ave,40.77565541,-73.95068615,Yorkville,16,31,NYC,#797D88,Manhattan
+3150,E 85 St & York Ave,40.77536905,-73.94803392,Yorkville,39,47,NYC,#797D88,Manhattan
+3151,E 81 St & York Ave,40.7728384,-73.94989233,Yorkville,32,39,NYC,#797D88,Manhattan
+3152,3 Ave & E 71 St,40.76873687,-73.96119945,Lenox Hill,41,41,NYC,#CBA9D7,Manhattan
+3155,Lexington Ave & E 63 St,40.76440023,-73.96648977,Lenox Hill,39,39,NYC,#CBA9D7,Manhattan
+3156,E 72 St & York Ave,40.76663814,-73.95348296,Lenox Hill,37,37,NYC,#CBA9D7,Manhattan
+3157,East End Ave & E 86 St,40.77518615,-73.94446054,Yorkville,26,27,NYC,#797D88,Manhattan
+3158,W 63 St & Broadway,40.77163851,-73.98261428,Upper West Side,25,31,NYC,#FFBF00,Manhattan
+3159,W 67 St & Broadway,40.77492513,-73.98266566,Upper West Side,29,31,NYC,#FFBF00,Manhattan
+3160,Central Park West & W 76 St,40.77896784,-73.97374737,Upper West Side,31,39,NYC,#FFBF00,Manhattan
+3161,W 76 St & Columbus Ave,40.7801839724239,-73.97728532552719,Upper West Side,58,59,NYC,#FFBF00,Manhattan
+3162,W 78 St & Broadway,40.78339981,-73.98093133,Upper West Side,34,39,NYC,#FFBF00,Manhattan
+3163,Central Park West & W 68 St,40.7734066,-73.97782542,Upper West Side,36,43,NYC,#FFBF00,Manhattan
+3164,Columbus Ave & W 72 St,40.7770575,-73.97898475,Upper West Side,58,67,NYC,#FFBF00,Manhattan
+3165,Central Park West & W 72 St,40.77579376683666,-73.97620573639871,Upper West Side,29,51,NYC,#FFBF00,Manhattan
+3166,Riverside Dr & W 72 St,40.780577990103346,-73.98562431335448,Upper West Side,27,41,NYC,#FFBF00,Manhattan
+3167,Amsterdam Ave & W 73 St,40.779668090073116,-73.98093044757842,Upper West Side,23,55,NYC,#FFBF00,Manhattan
+3168,Central Park West & W 85 St,40.78472675,-73.96961715,Upper West Side,25,31,NYC,#FFBF00,Manhattan
+3169,Riverside Dr & W 82 St,40.78720869,-73.98128127,Upper West Side,32,39,NYC,#FFBF00,Manhattan
+3170,W 84 St & Columbus Ave,40.78499979,-73.97283406,Upper West Side,26,35,NYC,#FFBF00,Manhattan
+3171,Amsterdam Ave & W 82 St,40.78524672,-73.97667321,Upper West Side,36,39,NYC,#FFBF00,Manhattan
+3172,W 74 St & Columbus Ave,40.7785669,-73.97754961,Upper West Side,18,27,NYC,#FFBF00,Manhattan
+3173,Riverside Blvd & W 67 St,40.777507027547976,-73.98888587951659,Upper West Side,25,39,NYC,#FFBF00,Manhattan
+3175,W 70 St & Amsterdam Ave,40.77748046,-73.98288594,Upper West Side,31,31,NYC,#FFBF00,Manhattan
+3176,W 64 St & West End Ave,40.77452835,-73.98753759,Upper West Side,35,43,NYC,#FFBF00,Manhattan
+3177,W 84 St & Broadway,40.7867947,-73.977112,Upper West Side,63,63,NYC,#FFBF00,Manhattan
+3178,Riverside Dr & W 78 St,40.78414472,-73.98362492,Upper West Side,39,39,NYC,#FFBF00,Manhattan
+3179,Park Ave & Marcus Garvey Blvd,40.698617,-73.941342,Bed - Stuy,5,23,NYC,#956642,Brooklyn
+3180,Brooklyn Bridge Park - Pier 2,40.69878,-73.99712,DUMBO,23,31,NYC,#6DE2E9,Brooklyn
+3182,Yankee Ferry Terminal,40.686931,-74.016966,Nolan Park,26,42,NYC,#626262,Manhattan
+3183,Exchange Place,40.7162469,-74.0334588,Colgate Center,11,30,Jersey City,#898989,Jersey City
+3184,Paulus Hook,40.7141454,-74.0335519,Colgate Center,9,14,Jersey City,#898989,Jersey City
+3185,City Hall,40.717732500000004,-74.04384499999999,Colgate Center,6,22,Jersey City,#898989,Jersey City
+3186,Grove St PATH,40.71958611647166,-74.0431174635887,Colgate Center,20,42,Jersey City,#898989,Jersey City
+3187,Warren St,40.721123600000006,-74.03805095,Colgate Center,21,22,Jersey City,#898989,Jersey City
+3191,Union St,40.71821129999999,-74.08363940000001,Bergen-Lafayette,8,18,Jersey City,#FFABAD,Jersey City
+3192,Liberty Light Rail,40.711242299999995,-74.0557013,Liberty State Park,2,22,Jersey City,#CE4100,Jersey City
+3193,Lincoln Park,40.7246050998869,-74.07840594649316,Tonnelle Circle,13,18,Jersey City,#A5D1CD,Jersey City
+3194,McGinley Square,40.7253399253558,-74.06762212514876,Tonnelle Circle,19,22,Jersey City,#A5D1CD,Jersey City
+3195,Sip Ave,40.730742625306576,-74.06378388404845,Tonnelle Circle,10,38,Jersey City,#A5D1CD,Jersey City
+3196,Riverview Park,40.7443187,-74.04399090000001,Tonnelle Circle,10,18,Jersey City,#A5D1CD,Jersey City
+3198,Heights Elevator,40.748715945380226,-74.04044330120088,Riverview-Frist,6,18,Jersey City,#7BC5CE,Jersey City
+3199,Newport Pkwy,40.728744799999994,-74.03210820000001,Colgate Center,6,14,Jersey City,#898989,Jersey City
+3201,Dey St,40.737711,-74.066921,Tonnelle Circle,11,18,Jersey City,#A5D1CD,Jersey City
+3202,Newport PATH,40.7272235,-74.03375890000001,Colgate Center,13,18,Jersey City,#898989,Jersey City
+3203,Hamilton Park,40.727595965999996,-74.044247311,Colgate Center,12,26,Jersey City,#898989,Jersey City
+3205,JC Medical Center,40.71653978099194,-74.0496379137039,Colgate Center,11,22,Jersey City,#898989,Jersey City
+3206,Hilltop,40.7311689,-74.0575736,Tonnelle Circle,26,26,Jersey City,#A5D1CD,Jersey City
+3207,Oakland Ave,40.7376037,-74.05247829999999,Tonnelle Circle,22,26,Jersey City,#A5D1CD,Jersey City
+3209,Brunswick St,40.7241765,-74.05065640000001,Colgate Center,16,22,Jersey City,#898989,Jersey City
+3210,Pershing Field,40.742677141,-74.051788633,Tonnelle Circle,13,18,Jersey City,#A5D1CD,Jersey City
+3211,Newark Ave,40.72152515,-74.046304543,Colgate Center,1,22,Jersey City,#898989,Jersey City
+3212,Christ Hospital,40.734785818,-74.050443636,Tonnelle Circle,11,22,Jersey City,#A5D1CD,Jersey City
+3213,Van Vorst Park,40.71848892,-74.047726625,Colgate Center,18,22,Jersey City,#898989,Jersey City
+3214,Essex Light Rail,40.712774200000005,-74.03648570000001,Colgate Center,11,22,Jersey City,#898989,Jersey City
+3220,5 Corners Library,40.73496102000952,-74.05950307846071,Tonnelle Circle,8,18,Jersey City,#A5D1CD,Jersey City
+3221,47 Ave & 31 St,40.743,-73.93561,Sunnyside,26,27,NYC,#3794DD,Queens
+3223,E 55 St & 3 Ave,40.758996559605116,-73.96865397691727,Murray Hill,50,53,NYC,#3498DB,Manhattan
+3225,Baldwin at Montgomery,40.7236589,-74.0641943,Tonnelle Circle,6,14,Jersey City,#A5D1CD,Jersey City
+3226,W 82 St & Central Park West,40.78275,-73.97137,Upper West Side,41,45,NYC,#FFBF00,Manhattan
+3231,E 67 St & Park Ave,40.76780080148132,-73.96592080593109,Upper East Side,3,3,NYC,#3FCAE6,Manhattan
+3232,Bond St & Fulton St,40.68962188790333,-73.98304268717766,Downtown Brooklyn,12,31,NYC,#B2C908,Brooklyn
+3233,E 48 St & 5 Ave,40.75724567911726,-73.97805914282799,Diamond District,35,39,NYC,#80C9BF,Manhattan
+3235,E 41 St & Madison Ave,40.752165280621966,-73.97992193698882,Diamond District,31,31,NYC,#80C9BF,Manhattan
+3236,W 42 St & Dyer Ave,40.75898481399634,-73.99379968643187,Hell's Kitchen,17,33,NYC,#AD78C0,Manhattan
+3241,Monroe St & Tompkins Ave,40.686203000000006,-73.944694,Bed-Stuy,15,19,NYC,#FFABAD,Brooklyn
+3242,Schermerhorn St & Court St,40.69102925677968,-73.99183362722397,Brooklyn Heights,1,39,NYC,#D5D3F4,Brooklyn
+3243,E 58 St & 1 Ave,40.75892386377695,-73.96226227283478,Tudor City,28,29,NYC,#55E08F,Manhattan
+3244,University Pl & E 8 St,40.73143724085228,-73.99490341544151,Washington Square Village,26,31,NYC,#C7B39F,Manhattan
+3249,Verona Pl & Fulton St,40.680356084043396,-73.94767910242079,Bed - Stuy,15,19,NYC,#956642,Brooklyn
+3254,Soissons Landing,40.69231660719192,-74.01486575603484,Nolan Park,1,29,NYC,#626262,Manhattan
+3255,8 Ave & W 31 St,40.7505853470215,-73.9946848154068,Chelsea,7,7,NYC,#DAF2FD,Manhattan
+3256,Pier 40 - Hudson River Park,40.7277140777778,-74.01129573583603,SoHo,4,22,NYC,#000846,Manhattan
+3258,W 27 St & 10 Ave,40.750181563256824,-74.00218427181244,Chelsea,31,37,NYC,#DAF2FD,Manhattan
+3260,Mercer St & Bleecker St,40.72706363348306,-73.99662137031554,NoHo Historic District,4,31,NYC,#C8C8C8,Manhattan
+3263,Cooper Square & Astor Pl,40.729514962249496,-73.99075269699097,NoHo,52,59,NYC,#AD5F43,Manhattan
+3267,Morris Canal,40.7124188237569,-74.03852552175522,Colgate Center,9,14,Jersey City,#898989,Jersey City
+3268,Lafayette Park,40.71346382669195,-74.06285852193831,Lafayette,7,14,Jersey City,#EF5523,Jersey City
+3269,Brunswick & 6th,40.726011729646245,-74.0503889322281,Tonnelle Circle,9,14,Jersey City,#A5D1CD,Jersey City
+3270,Jersey & 6th St,40.72528910781132,-74.04557168483734,Colgate Center,14,14,Jersey City,#898989,Jersey City
+3272,Jersey & 3rd,40.723331586464354,-74.04595255851744,Colgate Center,5,14,Jersey City,#898989,Jersey City
+3273,Manila & 1st,40.72165072487999,-74.04288411140442,Colgate Center,2,18,Jersey City,#898989,Jersey City
+3275,Columbus Drive,40.71835519823214,-74.03891444206238,Colgate Center,9,14,Jersey City,#898989,Jersey City
+3276,Marin Light Rail,40.71458403535893,-74.04281705617905,Colgate Center,17,26,Jersey City,#898989,Jersey City
+3277,Communipaw & Berry Lane,40.71435836870427,-74.06661093235016,Lafayette,3,14,Jersey City,#EF5523,Jersey City
+3278,Monmouth and 6th,40.72568548362901,-74.0487903356552,Colgate Center,11,14,Jersey City,#898989,Jersey City
+3279,Dixon Mills,40.72163014263835,-74.04996782541275,Colgate Center,13,18,Jersey City,#898989,Jersey City
+3280,Astor Place,40.71928220070703,-74.07126188278198,East Village,5,14,Jersey City,#1ABC9C,Manhattan
+3281,Leonard Gordon Park,40.74590996631558,-74.05727148056029,Tonnelle Circle,8,14,Jersey City,#A5D1CD,Jersey City
+3282,5 Ave & E 88 St,40.78307,-73.95939,Yorkville,26,38,NYC,#797D88,Manhattan
+3283,W 89 St & Columbus Ave,40.7882213,-73.97041561,Upper West Side,45,47,NYC,#FFBF00,Manhattan
+3284,E 88 St & Park Ave,40.781410700190015,-73.95595908164978,Yorkville,38,38,NYC,#797D88,Manhattan
+3285,W 87 St & Amsterdam Ave,40.78839,-73.9747,Upper West Side,38,43,NYC,#FFBF00,Manhattan
+3286,E 89 St & 3 Ave,40.7806284,-73.9521667,Upper East Side,0,0,NYC,#3FCAE6,Manhattan
+3288,E 88 St & 1 Ave,40.778301,-73.9488134,Yorkville,35,35,NYC,#797D88,Manhattan
+3289,W 90 St & Amsterdam Ave,40.79017948095081,-73.97288918495178,Upper West Side,29,32,NYC,#FFBF00,Manhattan
+3290,E 89 St & York Ave,40.7779453,-73.94604100000001,Yorkville,3,3,NYC,#797D88,Manhattan
+3292,5 Ave & E 93 St,40.785785100000005,-73.957481,Yorkville,37,43,NYC,#797D88,Manhattan
+3293,W 92 St & Broadway,40.7921,-73.9739,Upper West Side,16,24,NYC,#FFBF00,Manhattan
+3294,E 91 St & Park Ave,40.7835016,-73.955327,Upper East Side,35,38,NYC,#3FCAE6,Manhattan
+3295,Central Park W & W 96 St,40.791270000000004,-73.964839,Central Park,49,59,NYC,#A6D878,Manhattan
+3296,E 93 St & 2 Ave,40.78245417527987,-73.94891962409021,Yorkville,4,42,NYC,#797D88,Manhattan
+3297,6 St & 7 Ave,40.668662700000006,-73.97988067,Park Slope,15,21,NYC,#FAF6E0,Brooklyn
+3298,Warren St & Court St,40.686371,-73.99383324,Cobble Hill Historic District,2,23,NYC,#893D39,Brooklyn
+3299,E 98 St & Park Ave,40.788129999999995,-73.95206,East Harlem,22,25,NYC,#D05E56,Manhattan
+3300,Prospect Park West & 8 St,40.66514681533792,-73.97637605667114,Park Slope,23,25,NYC,#FAF6E0,Brooklyn
+3301,Columbus Ave & W 95 St,40.7919557,-73.968087,Upper West Side,36,39,NYC,#FFBF00,Manhattan
+3302,Columbus Ave & W 103 St,40.7969347,-73.9643412291,Upper West Side,22,22,NYC,#FFBF00,Manhattan
+3303,Butler St & Court St,40.6849894,-73.99440329,Carroll Gardens,1,25,NYC,#00953D,Brooklyn
+3304,6 Ave & 9 St,40.668127,-73.98377641,Park Slope,7,27,NYC,#FAF6E0,Brooklyn
+3305,E 91 St & 2 Ave,40.781122299341654,-73.94965589046478,Yorkville,24,39,NYC,#797D88,Manhattan
+3306,10 St & 7 Ave,40.666207799999995,-73.98199886,Park Slope,12,23,NYC,#FAF6E0,Brooklyn
+3307,West End Ave & W 94 St,40.7941654,-73.974124,Upper West Side,26,31,NYC,#FFBF00,Manhattan
+3308,Kane St & Clinton St,40.686175799999994,-73.99645295,Cobble Hill Historic District,12,27,NYC,#893D39,Brooklyn
+3309,E 97 St & 3 Ave,40.7859201,-73.94860294,East Harlem,21,30,NYC,#D05E56,Manhattan
+3310,14 St & 7 Ave,40.663779,-73.98396846,Park Slope,21,24,NYC,#FAF6E0,Brooklyn
+3311,Columbia St & Kane St,40.68763155,-74.0016256,Columbia Street Waterfront District,13,21,NYC,#FF9966,Brooklyn
+3312,1 Ave & E 94 St,40.78172120000001,-73.94594000000001,Yorkville,16,39,NYC,#797D88,Manhattan
+3313,6 Ave & 12 St,40.666318100000005,-73.9854617,Park Slope,13,29,NYC,#FAF6E0,Brooklyn
+3314,W 95 St & Broadway,40.7937704,-73.971888,Upper West Side,28,32,NYC,#FFBF00,Manhattan
+3315,Henry St & Degraw St,40.684751399999996,-73.99917254,Cobble Hill Historic District,13,23,NYC,#893D39,Brooklyn
+3316,W 104 St & Amsterdam Ave,40.798993700000004,-73.96621737779999,Upper West Side,41,47,NYC,#FFBF00,Manhattan
+3317,10 St & 5 Ave,40.6686273,-73.98700053,Park Slope,2,24,NYC,#FAF6E0,Brooklyn
+3318,2 Ave & E 96 St,40.7839636,-73.94716729999999,Yorkville,8,39,NYC,#797D88,Manhattan
+3319,14 St & 5 Ave,40.666287,-73.98895053,Park Slope,6,21,NYC,#FAF6E0,Brooklyn
+3320,Central Park West & W 100 St,40.794066608185524,-73.96286845207214,Central Park,46,49,NYC,#A6D878,Manhattan
+3321,Clinton St & Union St,40.683116399999996,-73.99785267,Cobble Hill Historic District,8,25,NYC,#893D39,Brooklyn
+3322,12 St & 4 Ave,40.668603000000004,-73.99043940000001,Park Slope,5,25,NYC,#FAF6E0,Brooklyn
+3323,W 106 St & Central Park West,40.798185600000004,-73.96059090060001,Central Park,53,59,NYC,#A6D878,Manhattan
+3324,3 Ave & 14 St,40.6685455,-73.99333264,Carroll Gardens,1,25,NYC,#00953D,Brooklyn
+3326,Clinton St & Centre St,40.67434,-74.00194698,Red Hook,2,21,NYC,#9CC925,Brooklyn
+3327,3 Ave & E 100 St,40.787721399999995,-73.94728331,Upper East Side,19,27,NYC,#3FCAE6,Manhattan
+3328,W 100 St & Manhattan Ave,40.795,-73.9645,Upper West Side,36,39,NYC,#FFBF00,Manhattan
+3329,Degraw St & Smith St,40.6829151,-73.99318208,Cobble Hill Historic District,1,27,NYC,#893D39,Brooklyn
+3330,Henry St & Bay St,40.672505799999996,-74.00494695,Red Hook,5,19,NYC,#9CC925,Brooklyn
+3331,Riverside Dr & W 104 St,40.8013434,-73.97114574390001,Upper West Side,34,39,NYC,#FFBF00,Manhattan
+3332,Degraw St & Hoyt St,40.68199044270703,-73.99079024791719,Gowanus,11,19,NYC,#BAA891,Brooklyn
+3333,Columbia St & Lorraine St,40.6747055,-74.00755720000001,Red Hook,2,21,NYC,#9CC925,Brooklyn
+3335,Union St & 4 Ave,40.6772744,-73.98282002,Park Slope,0,28,NYC,#FAF6E0,Brooklyn
+3336,E 97 St & Madison Ave,40.787801,-73.953559,East Harlem,40,41,NYC,#D05E56,Manhattan
+3337,Dwight St & Van Dyke St,40.67363551341504,-74.01195555925368,Red Hook,0,23,NYC,#9CC925,Brooklyn
+3338,2 Ave & E 99 St,40.786258600000004,-73.94552579,East Harlem,22,31,NYC,#D05E56,Manhattan
+3339,Berkeley Pl & 6 Ave,40.6765304,-73.97846879,Park Slope,2,23,NYC,#FAF6E0,Brooklyn
+3340,Wolcott St & Dwight St,40.6753274,-74.0100698,Red Hook,0,21,NYC,#9CC925,Brooklyn
+3341,Central Park West & W 102 St,40.795346,-73.96186,Central Park,40,41,NYC,#A6D878,Manhattan
+3342,Pioneer St & Richards St,40.677774799999995,-74.0094613,Red Hook,0,23,NYC,#9CC925,Brooklyn
+3343,W 107 St & Columbus Ave,40.7997568,-73.9621128676,Upper West Side,23,23,NYC,#FFBF00,Manhattan
+3344,Pioneer St & Van Brunt St,40.679043,-74.011169,Red Hook,0,19,NYC,#9CC925,Brooklyn
+3345,Madison Ave & E 99 St,40.78948541553215,-73.9524292945862,East Harlem,34,35,NYC,#D05E56,Manhattan
+3346,Berkeley Pl & 7 Ave,40.675146838709786,-73.9752320945263,Park Slope,11,29,NYC,#FAF6E0,Brooklyn
+3347,Van Brunt St & Wolcott St,40.6773429,-74.01275056,Red Hook,0,21,NYC,#9CC925,Brooklyn
+3348,Coffey St & Conover St,40.677236,-74.015665,Red Hook,1,19,NYC,#9CC925,Brooklyn
+3349,Grand Army Plaza & Plaza St West,40.6729679,-73.97087984,Park Slope,6,30,NYC,#FAF6E0,Brooklyn
+3350,W 100 St & Broadway,40.797372100000004,-73.97041192,Upper West Side,36,39,NYC,#FFBF00,Manhattan
+3351,E 102 St & 1 Ave,40.7869946,-73.94164802,East Harlem,17,25,NYC,#D05E56,Manhattan
+3352,Sigourney St & Columbia St,40.67267243410948,-74.00879524648191,Red Hook,3,21,NYC,#9CC925,Brooklyn
+3354,3 St & Prospect Park West,40.668132,-73.97363831,Park Slope,12,31,NYC,#FAF6E0,Brooklyn
+3355,E 66 St & Madison Ave,40.768008893059466,-73.96845281124116,Upper East Side,3,3,NYC,#3FCAE6,Manhattan
+3356,Amsterdam Ave & W 66 St,40.7746671,-73.98470567,Hell's Kitchen,18,21,NYC,#AD78C0,Manhattan
+3357,W 106 St & Amsterdam Ave,40.80083629999999,-73.9664492472,Upper West Side,32,35,NYC,#FFBF00,Manhattan
+3358,Garfield Pl & 8 Ave,40.671197799999995,-73.97484126,Park Slope,20,25,NYC,#FAF6E0,Brooklyn
+3359,E 68 St & Madison Ave,40.7691572,-73.96703464,Upper East Side,29,35,NYC,#3FCAE6,Manhattan
+3360,Amsterdam Ave & W 79 St,40.7829391,-73.9786517,Upper West Side,16,25,NYC,#FFBF00,Manhattan
+3361,Carroll St & 6 Ave,40.6740886,-73.9787282,Park Slope,7,23,NYC,#FAF6E0,Brooklyn
+3362,Madison Ave & E 82 St,40.7781314,-73.96069399,Yorkville,33,34,NYC,#797D88,Manhattan
+3363,E 102 St & Park Ave,40.7904828,-73.95033068,East Harlem,33,33,NYC,#D05E56,Manhattan
+3364,Carroll St & 5 Ave,40.6751622,-73.9814832,Park Slope,5,27,NYC,#FAF6E0,Brooklyn
+3365,3 St & 7 Ave,40.67038370000001,-73.97839676,Park Slope,11,27,NYC,#FAF6E0,Brooklyn
+3366,West End Ave & W 107 St,40.8021174,-73.9681805305,Upper West Side,30,31,NYC,#FFBF00,Manhattan
+3367,5 Ave & E 103 St,40.792255299999994,-73.95249933,East Harlem,39,39,NYC,#D05E56,Manhattan
+3368,5 Ave & 3 St,40.672815500000006,-73.98352355,Park Slope,0,30,NYC,#FAF6E0,Brooklyn
+3369,E 82 St & East End Ave,40.7724607,-73.9468208,Yorkville,23,29,NYC,#797D88,Manhattan
+3370,E 78 St & 2 Ave,40.7727966,-73.95577801,Upper East Side,22,25,NYC,#3FCAE6,Manhattan
+3371,4 Ave & 2 St,40.674613422475815,-73.98501142859459,Park Slope,0,27,NYC,#FAF6E0,Brooklyn
+3372,E 74 St & 1 Ave,40.7689738,-73.95482273,Upper East Side,26,39,NYC,#3FCAE6,Manhattan
+3373,3 St & 3 Ave,40.675070500000004,-73.98775226,Gowanus,3,27,NYC,#BAA891,Brooklyn
+3374,Central Park North & Adam Clayton Powell Blvd,40.799484,-73.955613,Central Park,30,36,NYC,#A6D878,Manhattan
+3375,3 Ave & E 72 St,40.7699426,-73.96060712,Upper East Side,32,35,NYC,#3FCAE6,Manhattan
+3376,E 65 St & 2 Ave,40.76471851944339,-73.96222069859505,Lenox Hill,38,39,NYC,#CBA9D7,Manhattan
+3377,Carroll St & Bond St,40.6786115,-73.99037292,Gowanus,0,25,NYC,#BAA891,Brooklyn
+3378,E 76 St & Park Ave,40.773763,-73.96222088,Upper East Side,25,28,NYC,#3FCAE6,Manhattan
+3379,E 103 St & Lexington Ave,40.790305100000005,-73.94755757,East Harlem,28,35,NYC,#D05E56,Manhattan
+3381,3 St & Hoyt St,40.6777287,-73.99364123,Carroll Gardens,7,21,NYC,#00953D,Brooklyn
+3382,Carroll St & Smith St,40.680611,-73.99475825,Boerum Hill Historic District,8,31,NYC,#5878BA,Brooklyn
+3383,Cathedral Pkwy & Broadway,40.804213,-73.96699104,Upper West Side,23,25,NYC,#FFBF00,Manhattan
+3384,Smith St & 3 St,40.678724200000005,-73.99599099,Boerum Hill Historic District,5,25,NYC,#5878BA,Brooklyn
+3386,1 Pl & Clinton St,40.6809591,-73.99905709,Carroll Gardens,14,27,NYC,#00953D,Brooklyn
+3387,E 106 St & Madison Ave,40.79343370000001,-73.94945003,East Harlem,22,25,NYC,#D05E56,Manhattan
+3388,President St & Henry St,40.6828003,-73.99990419,Cobble Hill,10,25,NYC,#F2F2C9,Brooklyn
+3389,Carroll St & Columbia St,40.6830456,-74.00348559,Columbia Street Waterfront District,1,28,NYC,#FF9966,Brooklyn
+3390,E 109 St & 3 Ave,40.79329668,-73.9432083,Upper East Side,21,24,NYC,#3FCAE6,Manhattan
+3391,E 106 St & 1 Ave,40.7892529,-73.93956237,East Harlem,4,25,NYC,#D05E56,Manhattan
+3392,Commerce St & Van Brunt St,40.681211700000006,-74.00860912,Red Hook,3,19,NYC,#9CC925,Brooklyn
+3393,Richards St & Delavan St,40.67943270000001,-74.00785041,Red Hook,1,19,NYC,#9CC925,Brooklyn
+3394,Columbia St & W 9 St,40.6769993,-74.00647134,Red Hook,0,21,NYC,#9CC925,Brooklyn
+3396,Clinton St & 4 Place,40.6783563,-74.00014502,Carroll Gardens,6,25,NYC,#00953D,Brooklyn
+3397,Court St & Nelson St,40.6763947,-73.99869893,Carroll Gardens,2,25,NYC,#00953D,Brooklyn
+3398,Smith St & 9 St,40.67469570000001,-73.99785768,Carroll Gardens,5,23,NYC,#00953D,Brooklyn
+3399,7 St & 3 Ave,40.67260298150126,-73.98983001708984,Park Slope,3,24,NYC,#FAF6E0,Brooklyn
+3400,E 110 St & Madison Ave,40.796153499999996,-73.94782145,East Harlem,22,24,NYC,#D05E56,Manhattan
+3401,2 Ave & 9 St,40.6724811,-73.99331394,Carroll Gardens,0,19,NYC,#00953D,Brooklyn
+3402,Court St & State St,40.6902375,-73.99203074,Cobble Hill,0,23,NYC,#F2F2C9,Brooklyn
+3403,4 Ave & 9 St,40.6705135,-73.98876585,Park Slope,2,31,NYC,#FAF6E0,Brooklyn
+3404,7 St & 5 Ave,40.670492200000005,-73.98541675,Park Slope,1,27,NYC,#FAF6E0,Brooklyn
+3405,5 St & 6 Ave,40.670483600000004,-73.98208968,Park Slope,7,23,NYC,#FAF6E0,Brooklyn
+3407,Union St & Nevins St,40.67909799721684,-73.98765474557877,Gowanus,3,23,NYC,#BAA891,Brooklyn
+3408,Congress St & Clinton St,40.6881529,-73.99520919,Cobble Hill Historic District,2,27,NYC,#893D39,Brooklyn
+3409,Bergen St & Smith St,40.686744299999994,-73.99063168,Cobble Hill Historic District,4,35,NYC,#893D39,Brooklyn
+3410,Dean St & Hoyt St,40.686444200000004,-73.98759104,Boerum Hill Historic District,1,31,NYC,#5878BA,Brooklyn
+3411,Bond St & Bergen St,40.6849668,-73.98620772,Boerum Hill Historic District,9,27,NYC,#5878BA,Brooklyn
+3412,Pacific St & Nevins St,40.6853761,-73.98302136,Boerum Hill Historic District,12,18,NYC,#5878BA,Brooklyn
+3413,Wyckoff St & 3 Ave,40.6827549,-73.98258555,Boerum Hill Historic District,7,22,NYC,#5878BA,Brooklyn
+3414,Bergen St & Flatbush Ave,40.680944723477296,-73.97567331790923,Park Slope,16,33,NYC,#FAF6E0,Brooklyn
+3415,Prospect Pl & 6 Ave,40.6793307,-73.97519523,Park Slope,16,25,NYC,#FAF6E0,Brooklyn
+3417,Baltic St & 5 Ave,40.6795766,-73.97854971,Park Slope,0,27,NYC,#FAF6E0,Brooklyn
+3418,Plaza St West & Flatbush Ave,40.675020700000005,-73.97111473,Park Slope,31,33,NYC,#FAF6E0,Brooklyn
+3419,Douglass St & 4 Ave,40.67927879999999,-73.98154004,Gowanus,0,27,NYC,#BAA891,Brooklyn
+3420,Douglass St & 3 Ave,40.6802133,-73.98432695,Park Slope,1,21,NYC,#FAF6E0,Brooklyn
+3421,Hoyt St & Warren St,40.6843549,-73.98901629,Boerum Hill Historic District,2,23,NYC,#5878BA,Brooklyn
+3422,Columbia St & Degraw St,40.6859296,-74.00242364,Columbia Street Waterfront District,1,21,NYC,#FF9966,Brooklyn
+3423,West Drive & Prospect Park West,40.6610633719006,-73.97945255041121,Windsor Terrace,15,29,NYC,#DAD8F3,Brooklyn
+3424,E 106 St & Lexington Ave,40.791976,-73.945993,East Harlem,21,27,NYC,#D05E56,Manhattan
+3425,2 Ave & E 104 St,40.789210499999996,-73.94370784,East Harlem,12,33,NYC,#D05E56,Manhattan
+3427,Lafayette St & Jersey St,40.72430527250332,-73.99600982666016,SoHo,7,40,NYC,#000846,Manhattan
+3428,8 Ave & W 16 St,40.740983,-74.00170200000001,Chelsea,0,0,NYC,#DAF2FD,Manhattan
+3429,Hanson Pl & Ashland Pl,40.68506807308177,-73.97790759801863,Fort Greene,4,39,NYC,#F8F4BC,Brooklyn
+3430,Richardson St & N Henry St,40.71907891179564,-73.94223690032959,Greenpoint,15,19,NYC,#097575,Brooklyn
+3431,E 35 St & 3 Ave,40.746524,-73.977885,Murray Hill,19,23,NYC,#3498DB,Manhattan
+3434,W 88 St & West End Ave,40.790254173304184,-73.97718340158461,Upper West Side,35,35,NYC,#FFBF00,Manhattan
+3435,Grand St & Elizabeth St,40.718821999999996,-73.99596,Little Italy,13,45,NYC,#F5F5F5,Manhattan
+3437,Riverside Dr & W 91 St,40.793134809866636,-73.97700369358063,Upper West Side,32,39,NYC,#FFBF00,Manhattan
+3438,E 76 St & 3 Ave,40.772248537721744,-73.95842134952545,Upper East Side,30,31,NYC,#3FCAE6,Manhattan
+3440,Fulton St & Adams St,40.692418292578466,-73.98949474096298,Downtown Brooklyn,21,43,NYC,#B2C908,Brooklyn
+3443,W 52 St & 6 Ave,40.76132983124814,-73.97982001304626,Diamond District,0,7,NYC,#80C9BF,Manhattan
+3447,E 71 St & 1 Ave,40.76703432309872,-73.95622730255127,Lenox Hill,36,41,NYC,#CBA9D7,Manhattan
+3449,Eckford St & Engert Ave,40.72146256229816,-73.94800901412964,Greenpoint,14,18,NYC,#097575,Brooklyn
+3452,Bayard St & Leonard St,40.71915571696044,-73.94885390996933,Williamsburg,28,43,NYC,#ED7710,Brooklyn
+3453,Devoe St & Lorimer St,40.71335226222875,-73.9491033554077,Williamsburg,5,19,NYC,#ED7710,Brooklyn
+3454,Leonard St & Maujer St,40.71036854235229,-73.94705951213838,Greenpoint,10,24,NYC,#097575,Brooklyn
+3455,Schermerhorn St & 3 Ave,40.68680820503432,-73.98036181926726,Boerum Hill Historic District,10,35,NYC,#5878BA,Brooklyn
+3456,Jackson St & Leonard St,40.716380319735606,-73.94821286201476,Greenpoint,21,22,NYC,#097575,Brooklyn
+3457,E 58 St & Madison Ave,40.763025942805186,-73.97209525108337,Upper East Side,40,46,NYC,#3FCAE6,Manhattan
+3458,W 55 St & 6 Ave,40.76309387270797,-73.97835016250609,Diamond District,3,3,NYC,#80C9BF,Manhattan
+3459,E 53 St & 3 Ave,40.75763227739443,-73.9693057537079,Murray Hill,34,34,NYC,#3498DB,Manhattan
+3461,Murray St & Greenwich St,40.71485150526252,-74.01122331619263,Tribeca,4,33,NYC,#E1A0A0,Manhattan
+3462,E 44 St & 2 Ave,40.75118387463277,-73.97138714790343,Tudor City,38,39,NYC,#55E08F,Manhattan
+3463,E 16 St & Irving Pl,40.735367055605394,-73.98797392845155,Gramercy Park,27,37,NYC,#7E48A7,Manhattan
+3466,W 45 St & 6 Ave,40.75668720603179,-73.98257732391356,Diamond District,33,34,NYC,#80C9BF,Manhattan
+3467,W Broadway & Spring Street,40.72494672359416,-74.00165855884552,University Village,1,42,NYC,#E0000B,Manhattan
+3469,India St & West St,40.73181401720966,-73.95995020866394,Greenpoint,5,23,NYC,#097575,Brooklyn
+3472,W 15 St & 10 Ave,40.742753828659026,-74.00747358798982,Chelsea,34,39,NYC,#DAF2FD,Manhattan
+3474,6 Ave & Spring St,40.7252556952547,-74.00412082672119,Greenwich Village,28,36,NYC,#EE1D24,Manhattan
+3476,Norman Ave & Leonard St,40.725769967272136,-73.9507395029068,Greenpoint,0,3,NYC,#097575,Brooklyn
+3477,39 St & 2 Ave - Citi Bike HQ at Industry City,40.65539977447831,-74.0106278657913,Sunset Park,30,33,NYC,#C4E8EE,Brooklyn
+3478,2 Ave & 36 St - Citi Bike HQ at Industry City,40.65708866668485,-74.00870203971863,Greenwood,21,43,NYC,#FDF7D2,Brooklyn
+3479,Picnic Point,40.68512559515415,-74.02535319328308,Nolan Park,11,45,NYC,#626262,Manhattan
+3481,York St,40.71649,-74.04105,Colgate Center,14,22,Jersey City,#898989,Jersey City
+3483,Montgomery St,40.71942,-74.05099,Colgate Center,1,14,Jersey City,#898989,Jersey City
+3486,Schermerhorn St & Bond St,40.68841742754083,-73.98451656103134,Boerum Hill Historic District,14,30,NYC,#5878BA,Brooklyn
+3489,Gold St & Frankfort St,40.710699946313866,-74.00354146957396,Southbridge Towers,22,31,NYC,#FCD22A,Manhattan
+3490,E 116 St & 2 Ave,40.796879,-73.93726099999999,East Harlem,24,31,NYC,#D05E56,Manhattan
+3491,E 118 St & 1 Ave,40.797470000000004,-73.93504,East Harlem,12,24,NYC,#D05E56,Manhattan
+3492,E 118 St & Park Ave,40.8005385,-73.9419949,East Harlem,26,27,NYC,#D05E56,Manhattan
+3493,E 118 St & 3 Ave,40.799139000000004,-73.9389152,East Harlem,31,31,NYC,#D05E56,Manhattan
+3494,E 115 St & Lexington Ave,40.797911,-73.9423,East Harlem,23,25,NYC,#D05E56,Manhattan
+3495,E 114 St & 1 Ave,40.79456629999999,-73.9362541,East Harlem,22,26,NYC,#D05E56,Manhattan
+3496,1 Ave & E 110 St,40.7923272,-73.9383,East Harlem,9,25,NYC,#D05E56,Manhattan
+3497,Pleasant Ave & E 116 St,40.794987899999995,-73.9333349,East Harlem,19,23,NYC,#D05E56,Manhattan
+3498,Pleasant Ave & E 120 St,40.7974772,-73.9311847,East Harlem,4,21,NYC,#D05E56,Manhattan
+3499,2 Ave & E 122 St,40.8006721,-73.9349,East Harlem,21,25,NYC,#D05E56,Manhattan
+3500,E 115 St & Madison Ave,40.7989445,-73.944846,East Harlem,25,31,NYC,#D05E56,Manhattan
+3501,E 118 St & Madison Ave,40.801486600000004,-73.9442507,East Harlem,28,29,NYC,#D05E56,Manhattan
+3502,Lexington Ave & E 111 St,40.79541210000001,-73.9441232,East Harlem,27,29,NYC,#D05E56,Manhattan
+3503,Madison Ave & E 120 St,40.80295,-73.942954,East Harlem,29,30,NYC,#D05E56,Manhattan
+3504,E 123 St & Lexington Ave,40.802926299999996,-73.9379,East Harlem,27,27,NYC,#D05E56,Manhattan
+3505,Lexington Ave & E 127 St,40.805726,-73.936322,East Harlem,32,33,NYC,#D05E56,Manhattan
+3506,Lexington Ave & E 120 St,40.8013066,-73.93981670000001,East Harlem,26,29,NYC,#D05E56,Manhattan
+3507,Park Ave & E 124 St,40.8045555,-73.93968609999999,Harlem,26,36,NYC,#A477C4,Manhattan
+3508,St Nicholas Ave & Manhattan Ave,40.809725,-73.953149,Harlem,29,31,NYC,#A477C4,Manhattan
+3509,Lenox Ave & W 115 St,40.8011939,-73.9500739,Harlem,24,31,NYC,#A477C4,Manhattan
+3510,Adam Clayton Powell Blvd & W 123 St,40.8078316,-73.949373,Harlem,28,31,NYC,#A477C4,Manhattan
+3511,Adam Clayton Powell Blvd & W 115 St,40.802535,-73.9532423,Harlem,22,22,NYC,#A477C4,Manhattan
+3512,27 Ave & 4 St,40.7747175,-73.93378940000001,Astoria,11,19,NYC,#448D7A,Queens
+3513,21 St & Hoyt Ave S,40.774645,-73.92370600000001,Astoria,13,21,NYC,#448D7A,Queens
+3514,Astoria Park S & Shore Blvd,40.7767,-73.927631,Astoria,11,23,NYC,#448D7A,Queens
+3515,24 Ave & 26 St,40.774591,-73.918544,Astoria,15,19,NYC,#448D7A,Queens
+3516,31 St & Astoria Blvd,40.76991760000001,-73.91840570000001,Astoria,30,31,NYC,#448D7A,Queens
+3517,31 St & Hoyt Ave N,40.771152799999996,-73.9170074,Astoria,25,35,NYC,#448D7A,Queens
+3518,Lenox Ave & W 126 St,40.808442,-73.94520870000001,Harlem,23,34,NYC,#A477C4,Manhattan
+3519,28 Ave & 43 St,40.764258,-73.911239,Astoria,0,0,NYC,#448D7A,Queens
+3520,Adam Clayton Powell Blvd & W 118 St,40.804372,-73.951475,Harlem,23,27,NYC,#A477C4,Manhattan
+3521,Lenox Ave & W 111 St,40.7987859,-73.9523,East Harlem,31,36,NYC,#D05E56,Manhattan
+3522,37 St & 24 Ave,40.7701477,-73.9120938,Steinway,17,19,NYC,#FDCA48,Queens
+3523,24 Ave & 29 St,40.7729,-73.91614200000001,Steinway,19,25,NYC,#FDCA48,Queens
+3524,19 St & 24 Ave,40.777455200000006,-73.9225403,Astoria,16,23,NYC,#448D7A,Queens
+3525,23 Ave & 27 St,40.776165,-73.9153175,Steinway,9,21,NYC,#FDCA48,Queens
+3526,31 St & 23 Ave,40.7747878,-73.91255509999999,Steinway,12,27,NYC,#FDCA48,Queens
+3527,5 Ave & E 126 St,40.806979999999996,-73.94174699999999,Harlem,27,27,NYC,#A477C4,Manhattan
+3528,Steinway St & 23 Ave,40.771393700000004,-73.9077436,Steinway,1,21,NYC,#FDCA48,Queens
+3529,Lenox Ave & W 130 St,40.8107922,-73.9430681,Harlem,20,25,NYC,#A477C4,Manhattan
+3530,Crescent St & Ditmars Blvd,40.7787185,-73.9145645,Astoria,12,19,NYC,#448D7A,Queens
+3531,Frederick Douglass Blvd & W 129 St,40.8125511,-73.9492286,Harlem,23,27,NYC,#A477C4,Manhattan
+3532,Ditmars Blvd & 19 St,40.78145,-73.9183302,Astoria,6,27,NYC,#448D7A,Queens
+3533,St. Nicholas Ave & W 126 St,40.8114323,-73.95187759999999,Manhattanville,23,34,NYC,#F2EFB7,Manhattan
+3534,Frederick Douglass Blvd & W 117 St,40.805159,-73.95469200000001,Harlem,34,39,NYC,#A477C4,Manhattan
+3535,Mt Morris Park W & W 120 St,40.804038,-73.945925,Harlem,25,27,NYC,#A477C4,Manhattan
+3536,W 116 St & Broadway,40.8082,-73.9641,Morningside Heights,42,43,NYC,#D8A027,Manhattan
+3537,Carlton Ave & Dean St,40.68097410000001,-73.97100970000001,Prospect Heights,18,29,NYC,#00468A,Brooklyn
+3538,W 110 St & Amsterdam Ave,40.802692,-73.96295,Upper West Side,42,45,NYC,#FFBF00,Manhattan
+3539,W 116 St & Amsterdam Ave,40.8067581,-73.9607082,Morningside Heights,43,43,NYC,#D8A027,Manhattan
+3540,Morningside Ave & W 123 St,40.81,-73.9551508,Morningside Heights,32,35,NYC,#D8A027,Manhattan
+3541,Amsterdam Ave & W 125 St,40.813358,-73.956461,Morningside Heights,16,39,NYC,#D8A027,Manhattan
+3542,Amsterdam Ave & W 119 St,40.8086249,-73.9596214,Morningside Heights,28,29,NYC,#D8A027,Manhattan
+3543,Morningside Dr & Amsterdam Ave,40.81028506306003,-73.95736455917357,Upper West Side,35,35,NYC,#FFBF00,Manhattan
+3544,Underhill Ave & Pacific St,40.6804836,-73.9646795,Prospect Heights,21,27,NYC,#00468A,Brooklyn
+3545,Broadway & W 122 St,40.8120562,-73.9612547,Morningside Heights,33,33,NYC,#D8A027,Manhattan
+3546,Pacific St & Classon Ave,40.67919439999999,-73.95879029999999,Prospect Heights,20,21,NYC,#00468A,Brooklyn
+3547,Broadway & Moylan Pl,40.8143256,-73.9590255,Morningside Heights,14,41,NYC,#D8A027,Manhattan
+3549,Grand Ave & Bergen St,40.678045000000004,-73.962408,Prospect Heights,24,25,NYC,#00468A,Brooklyn
+3551,3 Ave & E 112 St,40.795508,-73.94160600000001,East Harlem,21,23,NYC,#D05E56,Manhattan
+3552,W 113 St & Broadway,40.805973,-73.964928,Morningside Heights,38,39,NYC,#D8A027,Manhattan
+3553,Frederick Douglass Blvd & W 112 St,40.801694,-73.957145,Harlem,31,37,NYC,#A477C4,Manhattan
+3554,Vernon Blvd & 41 Rd,40.7552433,-73.94856779999999,LIC,21,27,NYC,#EBE18C,Queens
+3555,28 St & 41 Ave,40.751047,-73.93796999999999,LIC,26,27,NYC,#EBE18C,Queens
+3556,24 St & 41 Ave,40.752708500000004,-73.9397405,LIC,17,19,NYC,#EBE18C,Queens
+3557,40 Ave & 9 St,40.75742,-73.945133,LIC,6,19,NYC,#EBE18C,Queens
+3558,Bergen St & Vanderbilt Ave,40.6794388,-73.96804379999999,Prospect Heights,13,27,NYC,#00468A,Brooklyn
+3559,21 St & 38 Ave,40.7576314,-73.9391224,LIC,19,19,NYC,#EBE18C,Queens
+3560,28 St & 38 Ave,40.754876,-73.934326,Sunnyside,16,19,NYC,#3794DD,Queens
+3561,37 Ave & 35 St,40.7531106,-73.9279917,Sunnyside Gardens,6,11,NYC,#B22222,Queens
+3562,Classon Ave & St Marks Ave,40.676519799999994,-73.9596082,Prospect Heights,27,27,NYC,#00468A,Brooklyn
+3563,28 St & 36 Ave,40.757186,-73.93271899999999,Sunnyside,18,21,NYC,#3794DD,Queens
+3564,21 St & 36 Ave,40.760185299999996,-73.9362726,Astoria,17,19,NYC,#448D7A,Queens
+3565,36 Ave & 10 St,40.7614376,-73.9411265,Astoria,18,19,NYC,#448D7A,Queens
+3566,Crescent St & 35 Ave,40.7596276,-73.93214549999999,Astoria,25,25,NYC,#448D7A,Queens
+3567,11 St & 35 Ave,40.76274420000001,-73.9391141,Astoria,18,19,NYC,#448D7A,Queens
+3568,34 St & 35 Ave,40.756933200000006,-73.92622309999999,Sunnyside Gardens,20,21,NYC,#B22222,Queens
+3569,Franklin Ave & St Marks Ave,40.6758324,-73.95616770000001,Prospect Heights,26,29,NYC,#00468A,Brooklyn
+3570,35 Ave & 37 St,40.7557327,-73.92366109999999,Sunnyside Gardens,29,31,NYC,#B22222,Queens
+3571,Bedford Ave & Bergen St,40.676368,-73.95291800000001,Crown Heights,22,24,NYC,#FD4444,Brooklyn
+3572,34 Ave & 38 St,40.756913,-73.921631,Sunnyside Gardens,25,33,NYC,#B22222,Queens
+3573,35 St & 34 Ave,40.7580583,-73.92427509999999,Sunnyside Gardens,18,25,NYC,#B22222,Queens
+3574,Prospect Pl & Underhill Ave,40.6769694,-73.96579,Prospect Heights,18,23,NYC,#00468A,Brooklyn
+3575,Crescent St & 34 Ave,40.76108,-73.930562,Astoria,18,19,NYC,#448D7A,Queens
+3576,Park Pl & Vanderbilt Ave,40.6767,-73.969024,Prospect Heights,23,27,NYC,#00468A,Brooklyn
+3577,34 Ave & 21 St,40.762813799999996,-73.9342862,Astoria,20,23,NYC,#448D7A,Queens
+3578,Park Pl & Franklin Ave,40.67418060000001,-73.95649470000001,Prospect Heights,21,21,NYC,#00468A,Brooklyn
+3579,Sterling Pl & Bedford Ave,40.672695000000004,-73.954131,Flatbush,23,25,NYC,#C3E7EE,Brooklyn
+3580,St Johns Pl & Washington Ave,40.6737236,-73.9631611,Prospect Heights,26,30,NYC,#00468A,Brooklyn
+3581,Underhill Ave & Lincoln Pl,40.674012299999994,-73.9671457,Prospect Heights,23,27,NYC,#00468A,Brooklyn
+3582,Lincoln Pl & Classon Ave,40.672168299999996,-73.9609,Prospect Heights,24,28,NYC,#00468A,Brooklyn
+3583,Eastern Pkwy & Washington Ave,40.6716493,-73.9631145,Prospect Heights,23,31,NYC,#00468A,Brooklyn
+3584,Eastern Pkwy & Franklin Ave,40.670776700000005,-73.9576801,Prospect Heights,38,42,NYC,#00468A,Brooklyn
+3585,Union St & Bedford Ave,40.6691783,-73.9554162,Crown Heights,14,24,NYC,#FD4444,Brooklyn
+3586,34 Ave & 13 St,40.763875299999995,-73.9364848,Astoria,19,19,NYC,#448D7A,Queens
+3587,Carroll St & Washington Ave,40.6686744,-73.9618148,Prospect Heights,4,27,NYC,#00468A,Brooklyn
+3588,Vernon Blvd & 10 St,40.7671863,-73.9373554,Astoria,18,21,NYC,#448D7A,Queens
+3589,Broadway & 12 St,40.7668,-73.93477740000002,Astoria,19,19,NYC,#448D7A,Queens
+3590,Carroll St & Franklin Ave,40.6679411,-73.9588,Flatbush,2,19,NYC,#C3E7EE,Brooklyn
+3591,21 St & 31 Dr,40.7659,-73.930819,Astoria,17,21,NYC,#448D7A,Queens
+3592,Crescent St & Broadway,40.7633589,-73.92864709999999,Astoria,16,19,NYC,#448D7A,Queens
+3593,31 St & Broadway,40.761584,-73.925921,Astoria,27,35,NYC,#448D7A,Queens
+3595,35 St & Broadway,40.760339,-73.9222427,Sunnyside Gardens,14,18,NYC,#B22222,Queens
+3596,Sullivan Pl & Bedford Ave,40.6642406,-73.9574686,Flatbush,1,19,NYC,#C3E7EE,Brooklyn
+3597,43 St & Broadway,40.7577284,-73.9166368,Sunnyside Gardens,16,25,NYC,#B22222,Queens
+3598,Newton Rd & 44 St,40.7595701,-73.91426779999999,Astoria,10,19,NYC,#448D7A,Queens
+3599,Franklin Ave & Empire Blvd,40.663140000000006,-73.96056949999999,Flatbush,1,27,NYC,#C3E7EE,Brooklyn
+3601,Sterling St & Bedford Ave,40.6627059,-73.9569115,Flatbush,4,19,NYC,#C3E7EE,Brooklyn
+3602,31 Ave & 34 St,40.763154,-73.920827,Astoria,21,23,NYC,#448D7A,Queens
+3603,31 Ave & 30 St,40.7647,-73.9240312,Astoria,19,21,NYC,#448D7A,Queens
+3604,Rogers Ave & Sterling St,40.6630619,-73.95387459999999,Prospect Lefferts gardens,3,17,NYC,#AF1F90,Brooklyn
+3605,31 Ave & Crescent St,40.765834600000005,-73.9265474,Astoria,21,21,NYC,#448D7A,Queens
+3606,49 Ave & 21 St,40.74252,-73.948852,LIC,13,21,NYC,#EBE18C,Queens
+3607,31 Ave & 14 St,40.7682,-73.9322662,Astoria,18,19,NYC,#448D7A,Queens
+3608,5 St & 51 Ave,40.7423737,-73.9566,LIC,8,21,NYC,#EBE18C,Queens
+3610,Vernon Blvd & 30 Rd,40.770845,-73.93417099999999,Astoria,13,27,NYC,#448D7A,Queens
+3611,Vernon Blvd & 47 Rd,40.7449067,-73.9534573,LIC,0,3,NYC,#EBE18C,Queens
+3612,30 Ave & 21 St,40.77037429999999,-73.9286078,Astoria,15,15,NYC,#448D7A,Queens
+3613,Center Blvd & 48 Ave,40.745038,-73.957539,LIC,25,27,NYC,#EBE18C,Queens
+3614,Crescent St & 30 Ave,40.768692,-73.9249574,Astoria,21,23,NYC,#448D7A,Queens
+3615,44 Dr & 21 St,40.748000000000005,-73.94609270000001,LIC,16,21,NYC,#EBE18C,Queens
+3616,Steinway St & 28 Ave,40.7656251,-73.9136695,Sunnyside Gardens,3,3,NYC,#B22222,Queens
+3617,28 Ave & 35 St,40.7671,-73.9169858,Astoria,20,25,NYC,#448D7A,Queens
+3618,27 St & Hunter St,40.7485,-73.941275,LIC,21,25,NYC,#EBE18C,Queens
+3619,Newtown Ave & 23 St,40.7713615,-73.9246145,Astoria,12,19,NYC,#448D7A,Queens
+3620,11 St & 43 Ave,40.7519071,-73.94791190000001,LIC,3,3,NYC,#EBE18C,Queens
+3621,27 Ave & 9 St,40.7739825,-73.93091340000001,Astoria,17,19,NYC,#448D7A,Queens
+3622,E 128 St & Madison Ave,40.807559999999995,-73.93918199999999,East Harlem,13,15,NYC,#D05E56,Manhattan
+3623,W 120 St & Claremont Ave,40.8109494,-73.96340000000002,Morningside Heights,39,39,NYC,#D8A027,Manhattan
+3625,28 St & 40 Ave,40.752575799999995,-73.9364281,Sunnyside,20,22,NYC,#3794DD,Queens
+3628,Lenox Ave & W 117 St,40.8025566,-73.9490782,Harlem,26,31,NYC,#A477C4,Manhattan
+3629,Adam Clayton Powell Blvd & W 126 St,40.809495347779475,-73.94776493310928,Harlem,20,33,NYC,#A477C4,Manhattan
+3630,Coming Soon: Frederick Douglass Blvd & W 115 St,40.8038654,-73.95593079999999,Harlem,0,0,NYC,#A477C4,Manhattan
+3631,Crown St & Bedford Ave,40.666563000000004,-73.95674100000001,Crown Heights,4,27,NYC,#FD4444,Brooklyn
+3632,E 12 St & Avenue B,40.728048571362606,-73.97881150245668,Alphabet City,20,33,NYC,#FE3A3A,Manhattan
+3635,W 36 St & 9 Ave,40.754623240291046,-73.99516761302948,Hell's Kitchen,30,41,NYC,#AD78C0,Manhattan
+3637,Fulton St & Waverly Ave,40.68323865460341,-73.96599590778352,Fort Greene,30,31,NYC,#F8F4BC,Brooklyn
+3638,Washington St,40.7242941,-74.0354826,Colgate Center,18,18,Jersey City,#898989,Jersey City
+3639,Harborside,40.71925170000001,-74.034234,Colgate Center,30,30,Jersey City,#898989,Jersey City
+3640,Journal Square,40.73367,-74.0625,Tonnelle Circle,12,18,Jersey City,#A5D1CD,Jersey City
+3641,Broadway & W 25 St,40.74286877312112,-73.98918628692627,Flatiron Building,52,54,NYC,#8DB71B,Manhattan
+3646,35 Ave & 10 St,40.763154819103725,-73.93985509872438,Astoria,25,26,NYC,#448D7A,Queens
+3647,48 Ave & 30 Pl,40.74128309355993,-73.93725872039794,Sunnyside,23,23,NYC,#3794DD,Queens
+3648,Flushing Ave & Vanderbilt Ave,40.69795031569544,-73.97077560424805,Brooklyn Navy Yard,5,25,NYC,#DC3F1C,Brooklyn
+3649,W 129 St & Convent Ave,40.81439443791581,-73.95324736833571,Manhattanville,27,30,NYC,#F2EFB7,Manhattan
+3653,31 St & 35 Ave,40.75820464696758,-73.92832159996033,Astoria,18,19,NYC,#448D7A,Queens
+3654,31 St & Northern Blvd,40.75186951421875,-73.93349289894103,Sunnyside,33,35,NYC,#3794DD,Queens
+3656,E 2 St & Avenue A,40.72307749068673,-73.98583620786667,Alphabet City,21,31,NYC,#FE3A3A,Manhattan
+3658,W 18 St & 9 Ave,40.7435337324616,-74.00367558002472,Chelsea,12,27,NYC,#DAF2FD,Manhattan
+3659,W 17 St & 9 Ave,40.7429489166009,-74.00413691997528,Chelsea,20,25,NYC,#DAF2FD,Manhattan
+3661,Montgomery St & Franklin Ave,40.666439306870814,-73.96055638790129,Prospect Heights,5,19,NYC,#00468A,Brooklyn
+3662,31 Ave & Steinway St,40.76129389728909,-73.916916847229,Astoria,19,21,NYC,#448D7A,Queens
+3663,Sterling Pl & 7 Ave,40.67716489469059,-73.97382795810701,Park Slope,13,25,NYC,#FAF6E0,Brooklyn
+3664,North Moore St & Greenwich St,40.72019521437465,-74.0103006362915,Tribeca,30,30,NYC,#E1A0A0,Manhattan
+3666,32 St & 30 Ave,40.7664255270288,-73.92062902450563,Astoria,34,35,NYC,#448D7A,Queens
+3668,Leonard St & Nassau Ave,40.7239567849954,-73.94984364509583,Greenpoint,9,26,NYC,#097575,Brooklyn
+3669,Henry St & W 9 St,40.67630357634183,-74.00314047932625,Red Hook,2,19,NYC,#9CC925,Brooklyn
+3671,E 81 St & 2 Ave,40.77477944895728,-73.95427465438844,Yorkville,34,37,NYC,#797D88,Manhattan
+3673,Dean St & Franklin Ave,40.67759206937376,-73.95563721656801,Prospect Heights,17,21,NYC,#00468A,Brooklyn
+3674,Jay St & York St,40.70140317257725,-73.98672670125961,DUMBO,25,27,NYC,#6DE2E9,Brooklyn
+3675,3 Ave & E 95 St,40.784596798848916,-73.94968539476396,Upper East Side,24,31,NYC,#3FCAE6,Manhattan
+3676,Van Brunt St & Van Dyke St,40.675832943912894,-74.01472628116608,Red Hook,0,24,NYC,#9CC925,Brooklyn
+3677,Glenwood Ave,40.72755146730012,-74.07106071710588,Tonnelle Circle,18,18,Jersey City,#A5D1CD,Jersey City
+3678,Fairmount Ave,40.72572613742557,-74.07195925712584,Tonnelle Circle,15,18,Jersey City,#A5D1CD,Jersey City
+3679,Bergen Ave,40.72210378668603,-74.07145500183104,Tonnelle Circle,12,14,Jersey City,#A5D1CD,Jersey City
+3680,E 43 St & 5 Ave,40.754120810779256,-73.98025184869765,Diamond District,37,38,NYC,#80C9BF,Manhattan
+3681,Grand St,40.71517767732029,-74.03768330812454,Colgate Center,12,18,Jersey City,#898989,Jersey City
+3684,W 12 St & W 4 St,40.73756121181137,-74.00398269295692,Greenwich Village,28,43,NYC,#EE1D24,Manhattan
+3686,Gansevoort St & Hudson St,40.73944820130404,-74.00507032871245,West Village,2,37,NYC,#EDE2F1,Manhattan
